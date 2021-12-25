@@ -1,0 +1,1795 @@
+#head,desc,a17,b18,r18,b19
+3451,Secretariat - Economic Services,,,,
+00.090,Secretariat,,,,
+18,Department of Space,,,,
+18.00.01,Salaries,102188,117200,111800,116800
+18.00.02,Wages,0,10,0,0
+18.00.03,Overtime Allowance,50,60,140,100
+18.00.06,Medical Treatment,30539,30000,25000,30000
+18.00.11,Domestic Travel Expenses,16176,13000,14500,15000
+18.00.12,Foreign Travel Expenses,1818,1000,5000,6000
+18.00.13,Office Expenses,15441,21000,15000,16000
+18.00.14,"Rent, Rates & Taxes",1001,1500,1500,1200
+18.00.16,Publications,150,500,500,500
+18.00.20,Other Administrative Expenses,3599,2500,3000,3000
+18.00.21,Supplies & Materials,0,100,10,100
+18.00.24,POL,1593,1500,1000,1200
+18.00.26,Advertising & Publicity,0,100,100,100
+3451,Secretariat - Economic Services,,,,
+18.00.27,Minor Works,0,500,500,500
+18.00.28,Professional Services,219343,79700,259200,146600
+18.00.30,Other Contractual Services,24,100,100,100
+18.00.31,Grant-in-aid - General,6899,30000,12000,12000
+18.00.32,Contributions,0,30,0,0
+18.00.50,Other Charges,144,800,250,400
+18.99,Information Technology,,,,
+18.99.13,Office Expenses,137,300,300,300
+18.99.50,Other Charges,0,100,100,100
+,Total:  Department of Space,399102,300000,450000,350000
+,Total:  Major Head  '3451',399102,300000,450000,350000
+3402,Space Research,,,
+00.101,Space Technology,,,,
+01,Vikram Sarabhai Space Centre (VSSC),,,,
+01.00.01,Salaries,6105361,6333700,6714600,6799300
+01.00.03,Overtime Allowance,2760,3000,3000,3000
+01.00.06,Medical Treatment,573285,680000,600000,700000
+01.00.11,Domestic Travel Expenses,132907,129980,191800,165000
+01.00.12,Foreign Travel Expenses,4629,8000,8000,28000
+01.00.13,Office Expenses,736499,599980,576200,670000
+01.00.16,Publications,0,100,100,100
+01.00.20,Other Administrative Expenses,71496,94990,70000,70000
+01.00.21,Supplies & Materials,526992,864990,860000,686500
+01.00.24,POL,50976,54000,61500,63000
+01.00.26,Advertising & Publicity,9999,5500,8400,8000
+01.00.27,Minor Works,464986,464590,578300,617000
+01.00.28,Professional Services,580567,640000,620000,660000
+01.00.30,Other Contractual Services,589580,686580,685000,700000
+01.00.31,Grant-in-aid - General,475,700,700,40700
+01.00.32,Contributions,0,400,400,900
+01.00.34,Scholarships & Stipends,33149,40000,36000,38000
+01.00.50,Other Charges  - Charged,0,1000,1000,1000
+,Voted,95599,99990,100000,34500
+01.96,Swachhta Action Plan (SAP),,,,
+01.96.27,Minor Works,0,5400,5000,10000
+01.99,Information Technology,,,,
+01.99.13,Office Expenses,28852,17500,70000,40000
+01.99.50,Other Charges,0,12500,10000,15000
+,Total: Vikram Sarabhai Space Centre (VSSC),10008112,10742900,11200000,11350000
+,Charged,0,1000,1000,1000
+,Voted,10008112,10741900,11199000,11349000
+02,ISRO Inertial Systems Unit (IISU),,,,
+02.00.02,Wages,600,1300,400,500
+02.00.11,Domestic Travel Expenses,10791,16500,13500,17500
+02.00.12,Foreign Travel Expenses,397,1500,1500,1500
+02.00.13,Office Expenses,22203,45000,22000,25000
+02.00.20,Other Administrative Expenses,1800,3000,3500,3500
+02.00.21,Supplies & Materials,147250,135200,177500,160400
+02.00.24,POL,500,2000,1000,1500
+02.00.26,Advertising & Publicity,1500,1500,2000,2000
+02.00.27,Minor Works,15000,35000,40000,40000
+02.00.28,Professional Services,3000,4000,4000,5000
+02.00.30,Other Contractual Services,94250,110000,120000,128000
+02.00.31,Grant-in-aid - General,0,200,100,100
+02.00.50,Other Charges,6500,5000,5000,5000
+02.96,Swachhta Action Plan (SAP),,,,
+02.96.27,Minor Works,0,800,500,1000
+02.99,Information Technology,,,,
+02.99.13,Office Expenses,5500,7000,8500,7000
+02.99.50,Other Charges,1000,2000,500,2000
+,Total: ISRO Inertial Systems Unit (IISU),310291,370000,400000,400000
+04,Polar Satellite Launch Vehicle - Continuation (PSLV-C) Project,,,,
+04.00.01,Salaries,84240,100000,80000,80000
+04.00.03,Overtime Allowance,23,20,10,10
+04.00.11,Domestic Travel Expenses,19999,22500,20000,25000
+04.00.12,Foreign Travel Expenses,0,0,0,2000
+04.00.13,Office Expenses,9633,10000,10490,12500
+04.00.20,Other Administrative Expenses,23844,20000,22500,25000
+04.00.21,Supplies & Materials,65000,10000,10000,10000
+04.00.27,Minor Works,732,1500,1500,1500
+04.00.30,Other Contractual Services,4200,5000,5000,5000
+04.00.50,Other Charges,19962,14980,2000,2000
+04.99,Information Technology,,,,
+04.99.13,Office Expenses,0,0,0,490
+,Total: Polar Satellite Launch Vehicle - Continuation (PSLV-C) Project,227633,184000,151500,163500
+06,GSLV Mk-III Development,,,,
+06.00.11,Domestic Travel Expenses,6617,10000,10000,0
+06.00.12,Foreign Travel Expenses,1951,2000,2000,0
+06.00.13,Office Expenses,784,5000,5000,0
+06.00.21,Supplies & Materials,1260297,181300,51300,0
+06.00.27,Minor Works,0,100,100,0
+06.00.28,Professional Services,0,100,100,0
+06.00.30,Other Contractual Services,31,1000,1000,0
+06.00.50,Other Charges,317,500,500,0
+,Total: GSLV Mk-III Development,1269997,200000,70000,0
+09,Liquid Propulsion Systems Centre (LPSC),,,,
+09.00.01,Salaries,1767906,1955000,1865000,1885000
+09.00.02,Wages,5955,6700,8000,7500
+09.00.03,Overtime Allowance,1913,2200,1000,2200
+09.00.06,Medical Treatment,98594,105000,105000,110000
+09.00.11,Domestic Travel Expenses,35968,40000,40000,45000
+09.00.12,Foreign Travel Expenses,2195,4200,4200,4500
+09.00.13,Office Expenses,316858,345000,270000,310000
+09.00.14,"Rent, Rates & Taxes",379,1200,1200,1300
+09.00.20,Other Administrative Expenses,18999,19000,21000,24000
+09.00.21,Supplies & Materials,169894,150000,395000,463600
+09.00.24,POL,24500,25000,34000,37000
+09.00.26,Advertising & Publicity,11499,14500,12000,12500
+09.00.27,Minor Works,97938,90000,105400,116000
+09.00.28,Professional Services,191252,190000,200000,295000
+09.00.30,Other Contractual Services,150000,158000,90000,40000
+09.00.31,Grant-in-aid - General,90,200,200,200
+09.00.34,Scholarships & Stipends,12496,13300,22500,23000
+09.00.50,Other Charges  - Charged,2376,1500,1500,1500
+,Voted,14700,14700,10000,5700
+09.96,Swachhta Action Plan (SAP),,,,
+09.96.27,Minor Works,0,3500,3000,5000
+09.99,Information Technology,,,,
+09.99.13,Office Expenses,6200,6000,6000,6000
+09.99.50,Other Charges,5000,5000,5000,5000
+,Total: Liquid Propulsion Systems Centre (LPSC),2934712,3150000,3200000,3400000
+,Charged,2376,1500,1500,1500
+,Voted,2932336,3148500,3198500,3398500
+10,ISRO Satellite Centre (ISAC),,,,
+10.00.01,Salaries,3060000,3100000,3100000,0
+10.00.02,Wages,0,100,100,0
+10.00.03,Overtime Allowance,281,400,300,0
+10.00.06,Medical Treatment,249994,260000,250000,0
+10.00.011,Domestic Travel Expenses,7798,10000,22500,0
+10.00.012,Foreign Travel Expenses,8053,12000,16000,0
+10.00.013,Office Expenses,394299,359900,280000,0
+10.00.014,"Rent, Rates & Taxes",192,500,500,0
+10.00.20,Other Administrative Expenses,52623,49000,60000,0
+10.00.21,Supplies & Materials,201330,313400,330000,0
+10.00.24,POL,9401,20000,12000,0
+10.00.26,Advertising & Publicity,9200,6400,13000,0
+10.00.27,Minor Works,254005,369000,314000,0
+10.00.28,Professional Services,211773,220500,268000,0
+10.00.30,Other Contractual Services,410244,362400,439000,0
+10.00.31,Grant-in-aid - General,24601,12000,55000,0
+10.00.32,Contributions,0,100,100,0
+10.00.34,Scholarships & Stipends,3216,6000,6000,0
+10.00.50,Other Charges  - Charged,0,1000,1000,0
+,Voted,17069,18800,22100,0
+10.96,Swachhta Action Plan (SAP),,,,
+10.96.27,Minor Works,0,5000,5400,0
+10.99,Information Technology,,,,
+10.99.13,Office Expenses,7031,70000,170000,0
+10.99.50,Other Charges,18401,22000,35000,0
+,Total : ISRO Satellite Centre (ISAC),4939511,5218500,5400000,0
+,Charged,0,1000,1000,0
+,Voted,4939511,5217500,5399000,0
+11,Laboratory for Electro-Optics Systems (LEOS),,,,
+11.00.01,Salaries,290000,300000,345000,360000
+11.00.02,Wages,0,10,0,10
+11.00.03,Overtime Allowance,0,50,0,50
+11.00.06,Medical Treatment,2473,3000,2500,3000
+11.00.11,Domestic Travel Expenses,1946,1500,1000,1000
+11.00.12,Foreign Travel Expenses,70,1000,500,1000
+11.00.13,Office Expenses,43935,45000,46000,47000
+11.00.14,"Rent, Rates & Taxes",0,10,0,10
+11.00.16,Publications,0,100,100,100
+11.00.20,Other Administrative Expenses,3672,2600,3000,3500
+11.00.21,Supplies & Materials,62848,85000,83200,93300
+11.00.26,Advertising & Publicity,963,1000,1000,1000
+11.00.27,Minor Works,49848,47000,52300,50000
+11.00.28,Professional Services,212,1000,500,1000
+11.00.30,Other Contractual Services,21423,27100,35000,30000
+11.00.31,Grant-in-aid - General,0,10,10,10
+11.00.32,Contributions,0,10,0,10
+11.00.34,Scholarships & Stipends,0,10,0,10
+11.00.50,Other Charges,341,300,290,500
+11.96,Swachhta Action Plan (SAP),,,,
+11.96.27,Minor Works,0,0,0,700
+11.99,Information Technology,,,,
+11.99.13,Office Expenses,11694,14500,9300,7500
+11.99.50,Other Charges,75,800,300,300
+,Total : Laboratory for Electro-Optics Systems (LEOS),489500,530000,580000,600000
+25,Satish Dhawan Space Centre-SHAR (SDSC-SHAR),,,,
+25.00.01,Salaries,2066929,2250000,2310000,2410000
+25.00.02,Wages,0,100,100,100
+25.00.03,Overtime Allowance,2380,2600,2200,2800
+25.00.06,Medical Treatment,269998,330000,335000,350000
+25.00.11,Domestic Travel Expenses,28000,30000,35000,35000
+25.00.12,Foreign Travel Expenses,1996,4500,2200,2200
+25.00.13,Office Expenses,597686,660000,640000,700000
+25.00.14,"Rent, Rates & Taxes",4701,25000,10000,25000
+25.00.16,Publications,1933,2000,2000,2000
+25.00.20,Other Administrative Expenses,63996,81000,80000,90000
+25.00.21,Supplies & Materials,395324,417500,500000,475000
+25.00.24,POL,40998,45000,45000,49000
+25.00.26,Advertising & Publicity,25494,24000,24000,24000
+25.00.27,Minor Works,312253,360000,400000,398000
+25.00.28,Professional Services,524998,500000,520000,530000
+25.00.30,Other Contractual Services,508765,520000,490000,446000
+25.00.31,Grant-in-aid - General,406,500,500,500
+25.00.34,Scholarships & Stipends,11946,15000,15000,15000
+25.00.50,Other Charges  - Charged,0,500,500,500
+,Voted,11294,11400,11500,20400
+25.96,Swachhta Action Plan (SAP),,,,
+25.96.27,Minor Works,0,5900,9000,10000
+25.99,Information Technology,,,,
+25.99.13,Office Expenses,23199,25000,33000,27500
+25.99.50,Other Charges,34035,40000,35000,37000
+,Total: Satish Dhawan Space Centre - SHAR (SDSC-SHAR),4926331,5350000,5500000,5650000
+,Charged,0,500,500,500
+,Voted,4926331,5349500,5499500,5649500
+26,"ISRO Telemetry, Tracking & Command Network (ISTRAC)",,,,
+26.00.01,Salaries,657808,714000,732000,780000
+26.00.02,Wages,0,200,200,200
+26.00.03,Overtime Allowance,1,100,100,100
+26.00.06,Medical Treatment,35621,40000,40000,42000
+26.00.11,Domestic Travel Expenses,21463,13500,17500,20000
+26.00.12,Foreign Travel Expenses,15248,17500,17500,17500
+26.00.13,Office Expenses,150101,147500,155000,160000
+26.00.14,"Rent, Rates & Taxes",11700,300,3700,3700
+26.00.16,Publications,700,700,1000,700
+26.00.20,Other Administrative Expenses,1327,600,2000,800
+26.00.21,Supplies & Materials,56254,50000,41000,26000
+26.00.24,POL,3854,3400,3300,3500
+26.00.26,Advertising & Publicity,1198,2400,1000,2000
+26.00.27,Minor Works,221800,300000,270000,270000
+26.00.28,Professional Services,120684,170000,166000,170000
+26.00.30,Other Contractual Services,378228,440000,460000,470000
+26.00.31,Grant-in-aid - General,418,500,700,800
+26.00.34,Scholarships & Stipends,2296,3200,3800,4000
+26.00.50,Other Charges  - Charged,0,200,200,200
+,Voted,47592,45200,50000,52000
+26.96,Swachhta Actuion Plan (SAP),,,,
+26.96.27,Minor Works,0,3700,3000,3500
+26.99,Information Technology,,,,
+26.99.13,Office Expenses,17780,17000,20000,40000
+26.99.50,Other Charges,49989,30000,32000,33000
+,"Total: ISRO Telemetry, Tracking & Command Network (ISTRAC)",1794062,2000000,2020000,2100000
+,Charged,0,200,200,200
+,Voted,1794062,1999800,2019800,2099800
+33,GSLV Operational  (GSLV-O) Project,,,,
+33.00.01,Salaries,91338,100000,90000,100000
+33.00.03,Overtime Allowance,14,200,200,200
+33.00.11,Domestic Travel Expenses,9784,9900,10000,9900
+33.00.12,Foreign Travel Expenses,2189,100,0,0
+33.00.13,Office Expenses,6692,6000,8000,6000
+33.00.21,Supplies & Materials,1621572,1074300,446300,374400
+33.00.28,Professional Services,63,500,500,500
+33.00.30,Other Contractual Services,2822,3000,2500,3000
+33.00.50,Other Charges,2154,6000,5000,6000
+,Total: GSLV Operational (GSLV-O) Project,1736628,1200000,562500,500000
+38,Navigational Satellite System,,,,
+38.00.01,Salaries,23477,22000,60000,211500
+38.00.11,Domestic Travel Expenses,4847,1500,3250,7500
+38.00.12,Foreign Travel Expenses,382,1000,500,5000
+38.00.13,Office Expenses,3411,1400,1000,1500
+38.00.20,Other Administrative Expenses,904,500,600,1500
+38.00.21,Supplies & Materials,18971,20000,6400,8000
+38.00.26,Advertising & Publicity,0,100,200,200
+38.00.27,Minor Works,0,0,0,300
+38.00.28,Professional Services,4423,500,500,7000
+38.00.30,Other Contractual Services,8116,10000,7500,7000
+38.00.50,Other Charges,491,1000,50,500
+,Total: Navigational Satellite System,65022,58000,80000,250000
+45,Semi Cryogenic Engine Development,,,,
+45.00.01,Salaries,70000,72000,70000,70000
+45.00.11,Domestic Travel Expenses,3000,3000,5000,5000
+45.00.12,Foreign Travel Expenses,12300,10000,5000,10000
+45.00.13,Office Expenses,3500,3500,4000,2500
+45.00.21,Supplies & Materials,458568,790500,994000,803500
+45.00.27,Minor Works,4498,3500,5000,5000
+45.00.30,Other Contractual Services,74950,3500,4000,3000
+45.00.50,Other Charges,3000,4000,3000,1000
+,Total: Semi Cryogenic Engine Development,629816,890000,1090000,900000
+49,Geo-Imaging Satellite (GISAT),,,,
+49.00.01,Salaries,2000,50000,110000,100000
+49.00.03,Overtime Allowance,0,0,0,0
+49.00.11,Domestic Travel Expenses,1084,1000,1000,11000
+49.00.12,Foreign Travel Expenses,0,200,100,3500
+49.00.13,Office Expenses,5373,1000,1000,3500
+49.00.20,Other Administrative Expenses,587,0,0,6000
+49.00.21,Supplies & Materials,767,6800,100,15000
+49.00.26,Advertising & Publicity,117,0,0,0
+49.00.27,Minor Works,3088,0,0,2000
+49.00.28,Professional Services,3636,0,,2500
+49.00.30,Other Contractual Services,1922,16000,100,5000
+49.00.50,Other Charges,25,0,0,1500
+,Total: Geo-Imaging Satellite (GISAT),18599,75000,112300,150000
+50,Resourcesat-2A,,,,
+50.00.03,Overtime Allowance,100,0,0,0
+50.00.11,Domestic Travel Expenses,2687,0,0,0
+50.00.12,Foreign Travel Expenses,139,0,0,0
+50.00.13,Office Expenses,3161,0,,0
+50.00.20,Other Administrative Expenses,500,0,0,0
+50.00.21,Supplies & Materials,0,0,0,0
+50.00.27,Minor Works,1499,0,0,0
+50.00.28,Professional Services,1500,0,,0
+50.00.30,Other Contractual Services,262,0,0,0
+50.00.50,Other Charges,316,0,0,0
+,Total: Resourcesat-2A,10164,0,0,0
+51,Cartosat-3,,,,
+51.00.03,Overtime Allowance,0,100,100,100
+51.00.11,Domestic Travel Expenses,2370,4500,4500,6400
+51.00.12,Foreign Travel Expenses,0,2000,2000,2500
+51.00.13,Office Expenses,2859,8100,16700,23500
+51.00.20,Other Administrative Expenses,1000,1200,1200,1500
+51.00.21,Supplies & Materials,1279,0,0,0
+51.00.26,Advertising & Publicity,0,500,500,1000
+51.00.27,Minor Works,1600,1700,1700,2000
+51.00.28,Professional Services,500,700,700,1000
+51.00.30,Other Contractual Services,350,500,9200,4500
+51.00.50,Other Charges,1032,2400,2400,2500
+,Total: Cartosat-3,10990,21700,39000,45000
+52,Scattsat,,,,
+52.00.11,Domestic Travel Expenses,1100,0,0,0
+52.00.12,Foreign Travel Expenses,223,0,0,0
+52.00.13,Office Expenses,1107,0,,0
+52.00.21,Supplies & Materials,4242,0,0,0
+52.00.26,Advertising & Publicity,50,0,0,0
+52.00.27,Minor Works,250,0,0,0
+52.00.28,Professional Services,49,0,,0
+52.00.50,Other Charges,638,0,0,0
+,Total: Scattsat,7659,0,0,0
+53,RISAT-1A,,,,
+53.00.11,Domestic Travel Expenses,3519,5500,4000,6400
+53.00.12,Foreign Travel Expenses,0,4000,4000,5000
+53.00.13,Office Expenses,6065,7700,6400,7500
+53.00.20,Other Administrative Expenses,1384,2200,2200,2500
+53.00.21,Supplies & Materials,0,5000,1000,2500
+53.00.26,Advertising & Publicity,878,1000,1000,1000
+53.00.27,Minor Works,681,1200,1200,200
+53.00.28,Professional Services,932,700,700,900
+53.00.30,Other Contractual Services,2500,1300,7000,12000
+53.00.50,Other Charges,1030,1900,1500,2000
+,Total: RISAT-1A,16989,30500,29000,40000
+54,Oceansat-3 & 3A,,,,
+54.00.03,Overtime Allowance,0,100,100,100
+54.00.11,Domestic Travel Expenses,3867,8200,7500,8900
+54.00.12,Foreign Travel Expenses,574,4000,4000,7000
+54.00.13,Office Expenses,14251,7100,9000,14000
+54.00.20,Other Administrative Expenses,4717,4000,4000,4500
+54.00.21,Supplies & Materials,0,5000,2100,100
+54.00.27,Minor Works,4204,8800,8800,8800
+54.00.28,Professional Services,1800,500,500,1500
+54.00.30,Other Contractual Services,2919,3000,5000,6100
+54.00.50,Other Charges,3178,9800,9000,9000
+,Total: Oceansat-3 & 3A,35510,50500,50000,60000
+55,ISRO Propulsion Complex (IPRC),,,,
+55.00.01,Salaries,747000,793000,848500,880000
+55.00.02,Wages,6000,6000,14000,7500
+55.00.03,Overtime Allowance,300,300,300,300
+55.00.06,Medical Treatment,45000,45000,45000,45000
+55.00.11,Domestic Travel Expenses,12500,10000,18000,18000
+55.00.12,Foreign Travel Expenses,1250,1500,2000,2000
+55.00.13,Office Expenses,266597,350000,270000,280000
+55.00.20,Other Administrative Expenses,17000,20000,25000,25000
+55.00.21,Supplies & Materials,451200,661000,716400,770400
+55.00.24,POL,21000,22000,24000,25000
+55.00.26,Advertising & Publicity,9000,10000,10000,10000
+55.00.27,Minor Works,132000,110600,130000,140000
+55.00.28,Professional Services,162000,205000,180000,180000
+55.00.30,Other Contractual Services,132000,130000,130000,130000
+55.00.31,Grant-in-aid - General,300,600,300,300
+55.00.34,Scholarships & Stipends,4600,5000,7200,7200
+55.00.50,Other Charges  - Charged,0,500,500,500
+,Voted,2600,5700,5000,5000
+55.96,Swachhta Action Plan (SAP),,,,
+55.96.27,Minor Works,0,3800,3800,3800
+55.99,Information Technology,,,,
+55.99.13,Office Expenses,17950,15000,15000,15000
+55.99.50,Other Charges,2500,5000,5000,5000
+,Total: ISRO Propulsion Complex (IPRC),2030797,2400000,2450000,2550000
+,Charged,0,500,500,500
+,Voted,2030797,2399500,2449500,2549500
+56,Trisonic Wind Tunnel Facility Project,,,,
+56.00.11,Domestic Travel Expenses,0,350,200,500
+56.00.12,Foreign Travel Expenses,0,0,0,1800
+56.00.13,Office Expenses,0,325,100,500
+56.00.20,Other Administrative Expenses,0,50,100,1700
+56.00.21,Supplies & Materials,0,100,100,2000
+56.00.27,Minor Works,0,50,100,0
+56.00.28,Professional Services,0,50,100,1000
+56.00.30,Other Contractual Services,0,25,200,1000
+56.00.50,Other Charges,0,50,100,1000
+56.99,Information Technology,,,,
+56.99.50,Other Charges,0,0,0,500
+,Total: Trisonic Wind Tunnel Facility Project,0,1000,1000,10000
+57,Cartosat-2E,,,,
+57.00.03,Overtime Allowance,0,100,100,0
+57.00.11,Domestic Travel Expenses,5440,3200,4200,0
+57.00.12,Foreign Travel Expenses,0,1000,1000,0
+57.00.13,Office Expenses,3607,2600,1600,0
+57.00.20,Other Administrative Expenses,1057,1000,1200,0
+57.00.21,Supplies & Materials,105,0,0,0
+57.00.27,Minor Works,1700,1000,1000,0
+57.00.28,Professional Services,701,500,1500,0
+57.00.30,Other Contractual Services,2132,500,1500,0
+57.00.50,Other Charges,1007,1700,2500,0
+,Total: Cartosat-2E,15749,11600,14600,0
+58,Risat-1B,,,,
+58.00.03,Overtime Allowance,0,10,0,10
+58.00.11,Domestic Travel Expenses,0,50,2500,5500
+58.00.12,Foreign Travel Expenses,0,10,2000,5000
+58.00.13,Office Expenses,0,50,5000,4000
+58.00.20,Other Administrative Expenses,0,10,3000,1000
+58.00.21,Supplies & Materials,0,20,0,50
+58.00.26,Advertising & Publicity,0,0,0,400
+58.00.27,Minor Works,0,20,1000,500
+58.00.28,Professional Services,0,10,1000,40
+58.00.30,Other Contractual Services,0,10,3000,2500
+58.00.50,Other Charges,0,10,5000,1000
+,Total: Risat-1B,0,200,22500,20000
+60,Development of Space Materials & Components,,,,
+60.00.21,Supplies & Materials,145823,200000,220000,263600
+,Total: Development of Space Materials & Components,145823,200000,220000,263600
+61,NASA ISRO Synthetic Aperture Radar Mission (NISAR),,,,
+61.00.11,Domestic Travel Expenses,2895,6300,6300,7000
+61.00.12,Foreign Travel Expenses,2202,6000,6000,6000
+61.00.13,Office Expenses,1544,4300,4300,6500
+61.00.20,Other Administrative Expenses,200,300,300,500
+61.00.21,Supplies & Materials,0,0,0,0
+61.00.26,Advertising & Publicity,106,700,700,700
+61.00.27,Minor Works,500,1500,1500,1500
+61.00.28,Professional Services,100,500,500,700
+61.00.30,Other Contractual Services,0,500,100,100
+61.00.50,Other Charges,449,1900,1900,2000
+,Total: NASA ISRO Synthetic Aperture Radar Mission (NISAR),7996,22000,21600,25000
+62,Resourcesat-3S & 3SA,,,,
+62.00.03,Overtime Allowance,0,0,0,0
+62.00.11,Domestic Travel Expenses,2648,5800,5300,6900
+62.00.12,Foreign Travel Expenses,0,3500,3500,4000
+62.00.13,Office Expenses,9634,9800,9000,15000
+62.00.20,Other Administrative Expenses,2800,8000,7500,8500
+62.00.21,Supplies & Materials,0,5000,1000,8500
+62.00.26,Advertising & Publicity,0,1300,1000,1600
+62.00.27,Minor Works,1200,5000,5000,5500
+62.00.28,Professional Services,509,1000,1000,1300
+62.00.30,Other Contractual Services,1500,7000,12700,13700
+62.00.50,Other Charges,4200,10500,9000,5000
+,Total: Resourcesat-3S & 3SA,22491,56900,55000,70000
+63,Master Control Facility (MCF),,,,
+63.00.01,Salaries,412100,430000,436000,470000
+63.00.02,Wages,200,400,100,400
+63.00.03,Overtime Allowance,132,200,200,200
+63.00.06,Medical Treatment,17000,17000,22500,18000
+63.00.11,Domestic Travel Expenses,6400,4000,4500,5000
+63.00.12,Foreign Travel Expenses,84,1000,1000,1000
+63.00.13,Office Expenses,83400,92100,92000,95000
+63.00.14,"Rent, Rates & Taxes",145,250,250,250
+63.00.20,Other Administrative Expenses,7400,7250,5000,7500
+63.00.21,Supplies & Materials,12100,26500,15000,20000
+63.00.24,POL,1128,2000,2250,2300
+63.00.26,Advertising & Publicity,1577,1700,1700,1100
+63.00.27,Minor Works,41800,66000,50100,67500
+63.00.28,Professional Services,155200,166000,190000,166000
+63.00.30,Other Contractual Services,9600,15500,15500,16000
+63.00.31,Grant-in-aid - General,25,300,100,100
+63.00.34,Scholarships & Stipends,131,800,300,300
+63.00.50,Other Charges  - Charged,0,100,100,100
+,Voted,5743,11500,12000,12000
+63.96,Swachhta Action Plan (SAP),,,,
+63.96.27,Minor Works,0,4000,4000,4000
+63.99,Information Technology,,,,
+63.99.13,Office Expenses,5355,5400,3400,5000
+63.99.50,Other Charges,6700,8000,9000,8250
+,Total:  Master Control Facility (MCF),766220,860000,865000,900000
+,Charged,0,100,100,100
+,Voted,766220,859900,864900,899900
+64,Indian Space Research Organisation Headquarters (ISRO Hq),,,,
+64.00.01,Salaries,491792,476100,512000,557500
+64.00.02,Wages,0,20,100,100
+64.00.03,Overtime Allowance,93,150,100,200
+64.00.06,Medical Treatment,67399,65000,65000,65000
+64.00.11,Domestic Travel Expenses,26955,37600,32000,30000
+64.00.12,Foreign Travel Expenses,12551,15800,14900,16000
+64.00.13,Office Expenses,112499,93400,150000,140000
+64.00.14,"Rent, Rates & Taxes",12498,7800,47000,43000
+64.00.16,Publications,0,20,3000,5000
+64.00.20,Other Administrative Expenses,78701,110000,100000,100000
+64.00.21,Supplies & Materials,4,100,280,380
+64.00.24,POL,3399,5190,5000,5000
+64.00.26,Advertising & Publicity,26887,16600,25000,17500
+64.00.27,Minor Works,112494,120000,190000,117500
+64.00.28,Professional Services,37310,41000,49800,50000
+64.00.30,Other Contractual Services,182300,140000,140000,140000
+64.00.31,Grant-in-aid - General,14220,36000,50000,80000
+64.00.32,Contributions,0,20,20,20
+64.00.34,Scholarships & Stipends,583,700,600,600
+64.00.50,Other Charges  - Charged,0,200,200,200
+,Voted,127599,238000,263000,180000
+64.96,Swachhta Action Plan (SAP),,,,
+64.96.27,Minor Works,0,9300,7000,7000
+64.99,Information Technology,,,,
+64.99.13,Office Expenses,21446,8000,10000
+64.99.50,Other Charges,0,9000,12000,15000
+,Total: Indian Space Research Organisation Headquarters (ISRO Hq),1328730,1430000,1700000,1580000
+,Charged,0,200,200,200
+,Voted,1328730,1429800,1699800,1579800
+65,Resourcesat-3 & 3A,,,,
+65.00.01,Salaries,102500,20000,40000,28000
+65.00.11,Domestic Travel Expenses,1026,3100,3100,4100
+65.00.12,Foreign Travel Expenses,0,1200,1200,2000
+65.00.13,Office Expenses,12270,5000,4800,5700
+65.00.20,Other Administrative Expenses,2800,4800,4900,5800
+65.00.21,Supplies & Materials,2712,2500,2400,22000
+65.00.26,Advertising & Publicity,0,1000,1000,1000
+65.00.27,Minor Works,1350,3000,3300,4000
+65.00.28,Professional Services,2550,1000,1000,1500
+65.00.30,Other Contractual Services,1000,3600,8600,10400
+65.00.50,Other Charges,1700,4800,4800,5500
+,Total: Resourcesat-3 & 3A,127908,50000,75100,90000
+66,High Resolution Satellite (HRSAT) Constellation,,,,
+66.00.01,Salaries,0,85000,115000,172000
+66.00.11,Domestic Travel Expenses,1585,8000,8000,9000
+66.00.12,Foreign Travel Expenses,0,3000,3000,100
+66.00.13,Office Expenses,2300,8400,8400,4000
+66.00.20,Other Administrative Expenses,1200,4500,4700,1900
+66.00.21,Supplies & Materials,0,4000,1000,1000
+66.00.26,Advertising & Publicity,0,300,300,500
+66.00.27,Minor Works,0,1000,1200,500
+66.00.28,Professional Services,500,1500,1500,1000
+66.00.30,Other Contractual Services,100,10000,13700,8000
+66.00.50,Other Charges,300,4300,4700,2000
+,Total: High Resolution Satellite Constellation,5985,130000,161500,200000
+67,Semi Cryogenic Stage Development,,,,
+67.00.11,Domestic Travel Expenses,0,10,0,0
+67.00.13,Office Expenses,0,10,,0
+67.00.20,Other Administrative Expenses,0,10,0,0
+67.00.21,Supplies & Materials,0,20,54190,290000
+67.00.27,Minor Works,0,10,0,0
+67.00.28,Professional Services,0,10,,0
+67.00.30,Other Contractual Services,0,20,0,0
+67.00.50,Other Charges,0,10,0,0
+,Total: Semi Cryogenic Stage Development,0,100,54190,290000
+68,Semi Cryogenic Engine Clustering,,,,
+68.00.03,Overtime Allowance,0,2,0,2
+68.00.11,Domestic Travel Expenses,0,40,0,30
+68.00.12,Foreign Travel Expenses,0,0,0,10
+68.00.13,Office Expenses,0,40,,40
+68.00.20,Other Administrative Expenses,0,2,0,2
+68.00.21,Supplies & Materials,0,5,0,5
+68.00.27,Minor Works,0,5,0,5
+68.00.28,Professional Services,0,2,,2
+68.00.30,Other Contractual Services,0,2,0,2
+68.00.50,Other Charges,0,2,0,2
+,Total: Semi Cryogenic Engine Clustering,0,100,0,100
+69,Advanced Launch Vehicle Development,,,,
+69.00.03,Overtime Allowance,0,2,0,2
+69.00.11,Domestic Travel Expenses,0,40,0,40
+69.00.13,Office Expenses,0,40,0,40
+69.00.20,Other Administrative Expenses,0,2,0,2
+69.00.21,Supplies & Materials,0,5,0,5
+69.00.27,Minor Works,0,5,0,5
+69.00.28,Professional Services,0,2,0,2
+69.00.30,Other Contractual Services,0,2,0,2
+69.00.50,Other Charges,0,2,0,2
+,Total: Advanced Launch Vehicle Development,0,100,0,100
+70,PSLV Continuation Programme (Phase-6),,,,
+70.00.01,Salaries,0,0,0,150000
+70.00.03,Overtime Allowance,0,10,0,10
+70.00.11,Domestic Travel Expenses,0,30,0,1500
+70.00.13,Office Expenses,0,20,0,1000
+70.00.20,Other Administrative Expenses,0,10,0,1425
+70.00.21,Supplies & Materials,0,50,0,0
+70.00.27,Minor Works,0,20,0,0
+70.00.28,Professional Services,0,0,0,500
+70.00.30,Other Contractual Services,0,50,0,0
+70.00.50,Other Charges,0,10,0,400
+70.99,Information Technology,,,,
+70.99.13,Office Expenses,0,0,0,165
+,Total: PSLV Continuation Programme (Phase-6),0,200,0,155000
+71,GSLV Mk-III Continuation Programme (Phase-1),,,,
+71.00.01,Salaries,0,50,0,0
+71.00.03,Overtime Allowance,0,10,0,0
+71.00.11,Domestic Travel Expenses,0,20,2000,4000
+71.00.12,Foreign Travel Expenses,0,10,0,100
+71.00.13,Office Expenses,0,10,,7000
+71.00.20,Other Administrative Expenses,0,0,0,1000
+71.00.21,Supplies & Materials,0,50,0,0
+71.00.27,Minor Works,0,10,0,0
+71.00.28,Professional Services,0,10,1000,4000
+71.00.30,Other Contractual Services,0,10,0,0
+71.00.50,Other Charges,0,20,0,3900
+,Total: GSLV Mk-III Continuation Prog. (Phase-1),0,200,3000,20000
+72,Reusable Launch Vehicle Orbital Re-entry Experiment,,,,
+72.00.01,Salaries,0,0,0,48800
+72.00.11,Domestic Travel Expenses,0,20,300,500
+72.00.13,Office Expenses,0,20,700,700
+72.00.20,Other Administrative Expenses,0,10,700,500
+72.00.21,Supplies & Materials,0,10,0,0
+72.00.27,Minor Works,0,10,300,200
+72.00.28,Professional Services,0,0,,300
+72.00.30,Other Contractual Services,0,20,0,0
+72.00.50,Other Charges,0,10,28000,4000
+,Total: Reusbale Launch Vehicle Orbital Re-entry Experiment,0,100,30000,55000
+73,Small Satellite Launch Vehicle (SSLV) Development,,,,
+73.00.11,Domestic Travel Expenses,0,20,0,0
+73.00.13,Office Expenses,0,20,,0
+73.00.20,Other Administrative Expenses,0,10,0,0
+73.00.21,Supplies & Materials,0,10,0,8000
+73.00.27,Minor Works,0,10,1000,2500
+73.00.30,Other Contractual Services,0,20,0,7000
+73.00.50,Other Charges,0,10,1000,2500
+,Total: Small Satellite Vehicle (SSLV) Development,0,100,2000,20000
+74,U R Rao Satellite Centre (URSC),,,,
+74.00.01,Salaries,0,0,0,3210000
+74.00.02,Wages,0,0,0,100
+74.00.03,Overtime Allowance,0,0,0,300
+74.00.06,Medical Treatment,0,0,0,270000
+74.00.11,Domestic Travel Expenses,0,0,0,15000
+74.00.12,Foreign Travel Expenses,0,0,0,24000
+74.00.13,Office Expenses,0,0,,300000
+74.00.14,"Rent, Rates & Taxes",0,0,0,500
+74.00.20,Other Administrative Expenses,0,0,0,45000
+74.00.21,Supplies & Materials,0,0,,250000
+74.00.24,POL,0,0,0,15000
+74.00.26,Advertising & Publicity,0,0,0,6000
+74.00.27,Minor Works,0,0,0,290000
+74.00.28,Professional Services,0,0,0,352000
+74.00.30,Other Contractual Services,0,0,0,414500
+74.00.31,Grant-in-aid - General,0,0,0,75000
+74.00.32,Contributions,0,0,0,100
+74.00.34,Scholarships & Stipends,0,0,0,6000
+74.00.50,Other Charges  - Charged,0,0,0,1000
+,Voted,0,0,0,21000
+74.96,Swachhta Action Plan (SAP),,,,
+74.96.27,Minor Works,0,0,0,5500
+74.99,Information Technology,,,,
+74.99.13,Office Expenses,0,0,0,175000
+74.99.50,Other Charges,0,0,0,24000
+,Total : U R Rao Satellite Centre,0,0,0,5500000
+,Charged,0,0,0,1000
+,Voted,0,0,0,5499000
+75,Earth Observation Follow-on Satellites,,,,
+75.00.01,Salaries,0,0,0,10
+75.00.03,Overtime Allowance,0,0,0,5
+75.00.11,Domestic Travel Expenses,0,0,0,50
+75.00.12,Foreign Travel Expenses,0,0,0,10
+75.00.13,Office Expenses,0,0,0,40
+75.00.16,Publications,0,0,0,5
+75.00.20,Other Administrative Expenses,0,0,0,10
+75.00.21,Supplies & Materials,0,0,0,10
+75.00.26,Advertising & Publicity,0,0,0,10
+75.00.27,Minor Works,0,0,0,20
+75.00.28,Professional Services,0,0,0,10
+75.00.30,Other Contractual Services,0,0,0,10
+75.00.50,Other Charges,0,0,0,10
+,Total: Earth Observation Follow-on Satellites,0,0,0,200
+76,GSLV Continuation Programme (Phase-4),,,,
+76.00.11,Domestic Travel Expenses,0,0,0,20
+76.00.12,Foreign Travel Expenses,0,0,0,10
+76.00.13,Office Expenses,0,0,0,20
+76.00.21,Supplies & Materials,0,0,0,10
+76.00.27,Minor Works,0,0,0,10
+76.00.30,Other Contractual Services,0,0,0,20
+76.00.50,Other Charges,0,0,0,10
+,Total: GSLV Continuation Programme (Phase-4),0,0,0,100
+77,Network for Space Object Tracking and Analysis (NETRA),,,,
+77.00.11,Domestic Travel Expenses,0,0,0,200
+77.00.13,Office Expenses,0,0,0,500
+77.00.28,Professional Services,0,0,0,100
+77.00.30,Other Contractual Services,0,0,0,200
+,Total: Network for Space Object Tracking and Analysis (NETRA),0,0,0,1000
+78,Launch Pad for SSLV,,,,
+78.00.11,Domestic Travel Expenses,0,0,0,20
+78.00.13,Office Expenses,0,0,0,30
+78.00.21,Supplies & Materials,0,0,0,20
+78.00.27,Minor Works,0,0,0,10
+78.00.30,Other Contractual Services,0,0,0,10
+78.00.50,Other Charges,0,0,0,10
+,Total: Launch Pad for SSLV,0,0,0,100
+79,Human Spaceflight Centre (HSFC),,,,
+79.00.01,Salaries,0,0,0,40000
+79.00.02,Wages,0,0,0,200
+79.00.03,Overtime Allowance,0,0,0,100
+79.00.06,Medical Treatment,0,0,0,2500
+79.00.11,Domestic Travel Expenses,0,0,0,19000
+79.00.12,Foreign Travel Expenses,0,0,0,10000
+79.00.13,Office Expenses,0,0,0,12100
+79.00.14,"Rent, Rates & Taxes",0,0,0,100
+79.00.20,Other Administrative Expenses,0,0,0,500
+79.00.21,Supplies & Materials,0,0,0,5000
+79.00.24,POL,0,0,0,300
+79.00.26,Advertising & Publicity,0,0,0,100
+79.00.27,Minor Works,0,0,0,5000
+79.00.28,Professional Services,0,0,0,10000
+79.00.30,Other Contractual Services,0,0,0,2000
+79.00.31,Grant-in-aid - General,0,0,0,100
+79.00.32,Contributions,0,0,0,100
+79.00.34,Scholarships & Stipends,0,0,0,100
+79.00.50,Other Charges,0,0,0,1000
+79.96,Swachhta Action Plan (SAP),,0,,
+79.96.27,Minor Works,0,0,0,800
+79.99,Information Technology,,,,
+79.99.13,Office Expenses,0,0,0,9000
+79.99.50,Other Charges,0,0,0,1000
+,Total : Human Spaceflight Centre (HSFC),0,0,0,119000
+,Total:  Space Technology,38273204,38858700,40235600,41329300
+,Charged,2376,5000,5000,5000
+,Voted,38270828,38853700,40230600,41324300
+3402,Space Research,,,,
+00.102,Space Applications,,,,
+01,Space Applications Centre (SAC),,,,
+01.00.01,Salaries,2920000,3060000,3060000,3180000
+01.00.02,Wages,800,500,1000,1200
+01.00.03,Overtime Allowance,684,500,500,500
+01.00.06,Medical Treatment,204000,170000,220000,230000
+01.00.11,Domestic Travel Expenses,44999,53000,57000,73900
+01.00.12,Foreign Travel Expenses,10994,10000,12000,22000
+01.00.13,Office Expenses,258557,235200,240000,260800
+01.00.14,"Rent, Rates & Taxes",2301,15000,30000,15500
+01.00.20,Other Administrative Expenses,24999,22000,15000,23000
+01.00.21,Supplies & Materials,1965409,2400000,2125000,2643600
+01.00.24,POL,5999,8000,6500,7000
+01.00.26,Advertising & Publicity,12498,12500,15000,16000
+01.00.27,Minor Works,239994,225000,300000,231000
+01.00.28,Professional Services,137499,140000,186000,172200
+01.00.30,Other Contractual Services,99998,100000,130000,120000
+01.00.31,Grant-in-aid - General,499,500,500,500
+01.00.34,Scholarships & Stipends,14297,22500,20000,21000
+01.00.50,Other Charges  - Charged,3,500,500,500
+,Voted,99998,100000,70000,60800
+01.96,Swachhta Action Plan (SAP),,,
+01.96.27,Minor Works,0,9800,4000,10000
+01.99,Information Technology,,,,
+01.99.13,Office Expenses,3939,5000,6000,8500
+01.99.50,Other Charges,2000,2500,1000,2500
+,Total:  Space Applications Centre (SAC),6049467,6592500,6500000,7100500
+,Charged,3,500,500,500
+,Voted,6049464,6592000,6499500,7100000
+02,Development & Educational Communication Unit (DECU),,,,
+02.00.01,Salaries,85999,88000,97500,105000
+02.00.02,Wages,100,100,100,100
+02.00.03,Overtime Allowance,39,50,50,50
+02.00.06,Medical Treatment,100,0,0,0
+02.00.11,Domestic Travel Expenses,5998,8000,5000,8000
+02.00.13,Office Expenses,7000,2000,1500,1000
+02.00.20,Other Administrative Expenses,349,3300,250,250
+02.00.21,Supplies & Materials,800,1700,500,500
+02.00.24,POL,300,300,100,100
+02.00.26,Advertising & Publicity,100,100,100,100
+02.00.27,Minor Works,3999,1700,1700,500
+02.00.28,Professional Services,1451,1150,800,700
+02.00.30,Other Contractual Services,1000,1000,100,0
+02.00.50,Other Charges,42700,59600,80000,80500
+02,Development & Educational Communication Unit (DECU),,,,
+02.99,Information Technology,,,,
+02.99.13,Office Expenses,2000,2000,2000,3000
+02.99.50,Other Charges,499,1000,300,200
+,Total: Development & Educational Communication Unit (DECU),152434,170000,190000,200000
+04,Earth Observation Applications Mission (EOAM),,,,
+04.00.11,Domestic Travel Expenses,2732,3950,2500,3250
+04.00.13,Office Expenses,39,300,130,200
+04.00.21,Supplies & Materials,1612,6600,1500,800
+04.00.28,Professional Services,19114,27400,5000,300
+04.00.31,Grant-in-aid - General,650,250,0,0
+04.00.34,Scholarships & Stipends,6330,10500,10380,4950
+04.00.50,Other Charges,242,1000,490,500
+,Total: Earth Observation Applications Mission (EOAM),30719,50000,20000,10000
+05,National Natural Resources Management System (NNRMS),,,,
+05.00.01,Salaries,14803,20700,18700,18900
+05.00.03,Overtime Allowance,0,50,50,0
+05.00.06,Medical Treatment,125,200,200,200
+05.00.11,Domestic Travel Expenses,200,200,200,200
+05.00.12,Foreign Travel Expenses,0,200,200,200
+05.00.13,Office Expenses,146,300,300,300
+05.00.20,Other Administrative Expenses,0,100,100,100
+05.00.21,Supplies & Materials,0,50,50,0
+05.00.26,Advertising & Publicity,0,50,50,0
+05.00.30,Other Contractual Services,0,50,50,0
+05.00.31,Grant-in-aid - General,12465,40000,22500,20000
+05.00.50,Other Charges,153112,53000,92500,100000
+05.99,Information Technology,,,,
+05.99.13,Office Expenses,705,0,,0
+05.99.50,Other Charges,0,100,100,100
+,Total: National Natural Resources Management System (NNRMS),181556,115000,135000,140000
+09,North-Eastern Space Applications Centre (NE SAC),,,,
+09.00.31,Grant-in-aid - General,90000,110000,127000,161500
+09.00.35,Grants for creation of Capital Assets,165000,150000,235000,148500
+09.00.36,Grant-in-aid - Salaries,69000,90000,81500,90000
+,Total : North-Eastern Space Applications Centre (NE SAC),324000,350000,443500,400000
+10,Disaster Management Support (DMS),,,,
+10.00.01,Salaries,5799,5700,0,0
+10.00.11,Domestic Travel Expenses,2277,3700,2840,4960
+10.00.13,Office Expenses,3175,2900,2544,3750
+10.00.16,Publications,0,100,60,60
+10.00.21,Supplies & Materials,21052,38000,37603,35000
+10.00.27,Minor Works,500,2400,500,500
+10.00.28,Professional Services,35330,20500,19319,37500
+10.00.30,Other Contractual Services,4718,10000,5636,5000
+10.00.34,Scholarships & Stipends,1110,2500,6720,12230
+10.00.50,Other Charges,23,1000,0,0
+10.99,Information Technology,,,,
+10.99.13,Office Expenses,735,8200,3978,1000
+,Total: Disaster Management Support (DMS),74719,95000,79200,100000
+11,National Remote Sensing Centre (NRSC),,,,
+11.00.01,Salaries,1429990,1638000,1608000,1748000
+11.00.02,Wages,60,150,100,150
+11.00.03,Overtime Allowance,71,100,150,150
+11.00.06,Medical Treatment,123999,135000,160000,150000
+11.00.11,Domestic Travel Expenses,37995,36000,26800,26800
+11.00.12,Foreign Travel Expenses,3492,5500,5500,6000
+11.00.13,Office Expenses,172496,220000,260000,257000
+11.00.14,"Rent, Rates & Taxes",44496,55000,51600,51600
+11.00.20,Other Administrative Expenses,53448,50000,45000,30000
+11.00.21,Supplies & Materials,123397,110000,116000,120000
+11.00.24,POL,2098,3500,2000,2500
+11.00.26,Advertising & Publicity,17998,20000,14000,15000
+11.00.27,Minor Works,114997,100000,110000,110000
+11.00.28,Professional Services,202995,230000,239200,240000
+11.00.30,Other Contractual Services,222497,290000,267750,257500
+11.00.31,Grant-in-aid - General,145,500,500,500
+11.00.34,Scholarships & Stipends,1999,2500,5000,5000
+11.00.50,Other Charges  - Charged,0,400,400,400
+,Voted,22497,24350,10000,30000
+11.96,Swachhata Action Plan (SAP),,,,
+11.96.27,Minor Works,0,5000,0,1400
+11.99,Information Technology,,,,
+11.99.13,Office Expenses,16999,24000,18000,18000
+11.99.50,Other Charges,37498,50000,30000,30000
+,Total:  National Remote Sensing Centre (NRSC),2629167,3000000,2970000,3100000
+,Charged ,0,400,400,400
+,Voted,2629167,2999600,2969600,3099600
+12,Indian Institute of Remote Sensing (IIRS),,,,
+12.00.01,Salaries,174500,184800,188500,202400
+12.00.02,Wages,0,0,0,0
+12.00.03,Overtime Allowance,28,50,25,30
+12.00.06,Medical Treatment,10946,10500,10500,11000
+12.00.11,Domestic Travel Expenses,7196,6000,6600,7000
+12.00.12,Foreign Travel Expenses,357,600,600,800
+12.00.13,Office Expenses,19002,22500,20000,26150
+12.00.14,"Rent, Rates & Taxes",0,100,50,50
+12.00.16,Publications,9,150,25,50
+12.00.20,Other Administrative Expenses,1235,1400,1400,1500
+12.00.21,Supplies & Materials,29349,50000,25000,37220
+12.00.24,POL,598,1000,1000,1200
+12.00.26,Advertising & Publicity,2314,2200,2200,2200
+12.00.27,Minor Works,31000,30000,19000,40000
+12.00.28,Professional Services,13900,15000,60000,53000
+12.00.30,Other Contractual Services,28079,22000,35000,22600
+12.00.31,Grant-in-aid - General,154,500,500,500
+12.00.34,Scholarships & Stipends,2124,3400,2500,3000
+12.00.50,Other Charges  - Charged,0,100,100,100
+,Voted,1908,2500,2000,2500
+12.96,Swachhata Action Plan (SAP),,,,
+12.96.27,Minor Works,0,0,0,200
+12.99,Information Technology,,,,
+12.99.13,Office Expenses,6528,12000,5000,2500
+12.99.50,Other Charges,8121,10000,15000,11000
+,Total:  Indian Institute of Remote Sensing (IIRS),337348,374800,395000,425000
+,Charged,0,100,100,100
+,Voted,337348,374700,394900,424900
+,Total: Space Applications,9779410,10747300,10732700,11475500
+,Charged,3,1000,1000,1000
+,Voted,9779407,10746300,10731700,11474500
+00.103,Space Sciences,,,,
+01,Physical Research Laboratory (PRL),,,,
+01.00.31,Grant-in-aid - General,575000,600000,487900,500000
+01.00.35,Grants for creation of Capital Assets,720000,540000,460000,223000
+01.00.36,Grant-in-aid - Salaries,605000,660000,652100,727000
+,Total : Physical Research Laboratory (PRL),1900000,1800000,1600000,1450000
+04,National Atmospheric Research Laboratory (NARL),,,,
+04.00.31,Grant-in-aid - General,105000,100000,100000,150000
+04.00.35,Grants for creation of Capital Assets,40000,190000,290000,225000
+04.00.36,Grant-in-aid - Salaries,102000,110000,110000,125000
+,Total : National Atmospheric Research Laboratory (NARL),247000,400000,500000,500000
+08,Sensor Paylaod Development/ Planetary Science Programme,,,,
+08.00.30,Other Contractual Services,88593,82900,10000,5000
+08.00.31,Grant-in-aid - General,13834,20000,20000,20000
+,Total : Sensor Paylaod Development/Planetary Science Programme,102427,102900,30000,25000
+09,RESPOND,,,,
+09.00.31,Grant-in-aid - General,234871,300000,270000,580000
+,Total: RESPOND,234871,300000,270000,580000
+00.103,Space Sciences,,,,
+11,Indian Lunar Mission - Chandrayaan - 1 & 2,,,,
+11.00.03,Overtime Allowance,75,200,200,200
+11.00.11,Domestic Travel Expenses,4592,3000,4600,3000
+11.00.12,Foreign Travel Expenses,1945,2000,26000,5000
+11.00.13,Office Expenses,4873,2300,2300,2100
+11.00.20,Other Administrative Expenses,717,100,300,300
+11.00.21,Supplies & Materials,338,4500,13000,100
+11.00.27,Minor Works,1865,700,1000,650
+11.00.28,Professional Services,1824,800,1000,250
+11.00.30,Other Contractual Services,85532,236000,451000,160800
+11.00.50,Other Charges,620,400,600,600
+,Total:   Indian Lunar Mission - Chandrayaan -1 & 2,102381,250000,500000,173000
+14,ADITYA,,,,
+14.00.03,Overtime Allowance,0,100,100,100
+14.00.11,Domestic Travel Expenses,2903,7400,2300,4300
+14.00.12,Foreign Travel Expenses,0,1000,1000,2000
+14.00.13,Office Expenses,3983,20000,8000,5400
+14.00.20,Other Administrative Expenses,1200,1000,600,1000
+14.00.21,Supplies & Materials,0,66500,2500,2500
+14.00.27,Minor Works,1500,2000,1400,1500
+14.00.28,Professional Services,1334,1000,800,800
+14.00.30,Other Contractual Services,0,40000,500,500
+14.00.50,Other Charges,178,1000,800,1900
+,Total: ADITYA,11098,140000,18000,20000
+17,X-Ray Polarimeter Satellite (Xposat),,,,
+17.00.03,Overtime Allowance,0,300,100,300
+17.00.11,Domestic Travel Expenses,1270,1800,1800,2300
+17.00.12,Foreign Travel Expenses,0,1000,1000,1000
+17.00.13,Office Expenses,2100,5600,3400,3900
+17.00.20,Other Administrative Expenses,100,800,700,1100
+17.00.21,Supplies & Materials,0,2000,500,2500
+17.00.27,Minor Works,0,500,500,700
+17.00.28,Professional Services,22,500,500,500
+17.00.30,Other Contractual Services,1100,2500,1300,4000
+17.00.50,Other Charges,0,500,200,700
+,Total:   X-Ray Polarimeter Satellite (Xposat),4592,15500,10000,17000
+18,Space Docking Experiment Mission,,,,
+18.00.11,Domestic Travel Expenses,492,1300,1300,2000
+18.00.12,Foreign Travel Expenses,0,0,0,1000
+18.00.13,Office Expenses,900,1000,600,1200
+18.00.20,Other Administrative Expenses,100,500,300,1000
+18.00.21,Supplies & Materials,0,11200,100,0
+18.00.28,Professional Services,0,500,500,500
+18.00.30,Other Contractual Services,0,200,100,1500
+18.00.50,Other Charges,0,300,100,300
+,Total:   Space Docking Experiment Mission,1492,15000,3000,7500
+19,Climate & Atmospheric Programme,,,,
+19.00.11,Domestic Travel Expenses,3116,3000,3340,5000
+19.00.13,Office Expenses,258,2000,2000,5500
+19.00.21,Supplies & Materials,4590,7500,7500,8000
+19.00.28,Professional Services,0,10000,16000,16000
+19.00.30,Other Contractual Services,10119,7500,8000,8000
+19.00.31,Grant-in-aid - General,87840,108000,126960,140500
+19.00.34,Scholarships & Stipends,4233,9000,6200,8000
+19.00.50,Other Charges,26549,3000,6000,4000
+,Total:  Climate & Atmospheric Programme,136705,150000,176000,195000
+20,Space Science Promotion,,,,
+20.00.31,Grant-in-aid - General,16458,49000,30000,40000
+,Total:  Space Science Promotion,16458,49000,30000,40000
+21,Mission to Venus,,,,
+21.00.03,Overtime Allowance,0,10,0,10
+21.00.11,Domestic Travel Expenses,0,50,0,50
+21.00.12,Foreign Travel Expenses,0,10,0,10
+21.00.13,Office Expenses,0,50,,50
+21.00.20,Other Administrative Expenses,0,10,0,10
+21.00.21,Supplies & Materials,0,30,0,20
+21.00.27,Minor Works,0,10,0,20
+21.00.28,Professional Services,0,10,,10
+21.00.30,Other Contractual Services,0,10,0,10
+21.00.50,Other Charges,0,10,0,10
+,Total:   Mission to Venus,0,200,0,200
+22,Mars Orbiter Mission - II,,,,
+22.00.03,Overtime Allowance,0,10,0,10
+22.00.11,Domestic Travel Expenses,0,50,0,50
+22.00.12,Foreign Travel Expenses,0,10,0,10
+22.00.13,Office Expenses,0,50,0,50
+22.00.20,Other Administrative Expenses,0,10,0,10
+22.00.21,Supplies & Materials,0,20,0,20
+22.00.27,Minor Works,0,20,0,20
+22.00.28,Professional Services,0,10,0,10
+22.00.30,Other Contractual Services,0,10,0,10
+22.00.50,Other Charges,0,10,0,10
+,Total:   Mars Orbiter Mission - II,0,200,0,200
+23,AtmSat,,,,
+23.00.03,Overtime Allowance,0,0,0,10
+23.00.11,Domestic Travel Expenses,0,0,0,10
+23.00.12,Foreign Travel Expenses,0,0,0,10
+23.00.13,Office Expenses,0,0,0,10
+23.00.20,Other Administrative Expenses,0,0,0,10
+23.00.21,Supplies & Materials,0,0,0,10
+23.00.27,Minor Works,0,0,0,10
+23.00.28,Professional Services,0,0,0,10
+23.00.30,Other Contractual Services,0,0,0,10
+23.00.50,Other Charges,0,0,0,10
+,Total:   AtmSat,0,0,0,100
+24,ExoWorlds,,,,
+24.00.03,Overtime Allowance,0,0,0,10
+24.00.11,Domestic Travel Expenses,0,0,0,60
+24.00.12,Foreign Travel Expenses,0,0,0,10
+24.00.13,Office Expenses,0,0,0,50
+24.00.20,Other Administrative Expenses,0,0,0,10
+24.00.21,Supplies & Materials,0,0,0,50
+24.00.26,Advertising & Publicity,0,0,0,10
+24.00.27,Minor Works,0,0,0,10
+24.00.28,Professional Services,0,0,0,30
+24.00.30,Other Contractual Services,0,0,0,20
+24.00.50,Other Charges,0,0,0,40
+,Total:   ExoWorlds,0,0,0,300
+,Total: Space Sciences,2757024,3222800,3137000,3008300
+00.105,INSAT Satellite System,,,,
+01,INSAT-3 Satellites,,,,
+01.00.01,Salaries,500,0,0,0
+01.00.11,Domestic Travel Expenses,514,0,0,100
+01.00.13,Office Expenses,589,0,,100
+01.00.20,Other Administrative Expenses,50,500,500,100
+01.00.21,Supplies & Materials,11,0,0,0
+01.00.27,Minor Works,426,0,0,100
+01.00.28,Professional Services,396,0,,0
+01.00.30,Other Contractual Services,0,4500,1000,3500
+01.00.50,Other Charges,12,0,0,100
+,Total:  INSAT-3 Satellites,2498,5000,1500,4000
+02,INSAT-4/GSAT Satellites,,,,
+02.00.01,Salaries,163000,82500,80500,0
+02.00.03,Overtime Allowance,0,100,100,0
+02.00.11,Domestic Travel Expenses,2345,3500,5000,0
+02.00.12,Foreign Travel Expenses,721,100,100,0
+02.00.13,Office Expenses,24981,11000,11000,0
+02.00.20,Other Administrative Expenses,882,5000,5000,0
+02.00.21,Supplies & Materials,21073,15000,14600,0
+02.00.26,Advertising & Publicity,0,500,800,0
+02.00.27,Minor Works,5970,5900,6000,0
+02.00.28,Professional Services,5811,6000,6000,0
+02.00.30,Other Contractual Services,19889,12500,61100,0
+02.00.50,Other Charges,221,1000,800,0
+,Total: INSAT-4/GSAT Satellites,244893,143100,191000,0
+00.105,INSAT Satellite System,,,,
+03,Service Charges for Leasing INSAT/GSAT Transponders,,,,
+03.00.28,Professional Services,1119800,1000000,1000000,1000000
+,Total: Service Charges for Leasing INSAT/GSAT Transponders,1119800,1000000,1000000,1000000
+07,GSAT-17 Satellite,,,,
+07.00.01,Salaries,159500,0,0,0
+07.00.11,Domestic Travel Expenses,1802,5500,7500,0
+07.00.12,Foreign Travel Expenses,34921,20000,20300,0
+07.00.13,Office Expenses,23159,27000,23200,0
+07.00.20,Other Administrative Expenses,6281,1200,2700,0
+07.00.21,Supplies & Materials,13839,10000,20800,0
+07.00.26,Advertising & Publicity,218,500,800,0
+07.00.27,Minor Works,2775,5000,10000,0
+07.00.28,Professional Services,3018,5000,10000,0
+07.00.30,Other Contractual Services,39811,2100,12200,0
+07.00.50,Other Charges,2754,1500,2500,0
+,Total: GSAT-17 Satellite,288078,77800,110000,0
+08,GSAT-17 Satellite Launch Services,,,,
+08.00.50,Other Charges,14399,5000,0,0
+,Total: GSAT-17 Satellite Launch Services,14399,5000,0,0
+00.105,INSAT Satellite System,,,,
+09,GSAT-18 Satellite,,,,
+09.00.01,Salaries,35000,0,0,0
+09.00.03,Overtime Allowance,0,0,0,0
+09.00.11,Domestic Travel Expenses,991,0,0,0
+09.00.12,Foreign Travel Expenses,9521,0,0,0
+09.00.13,Office Expenses,2899,0,,0
+09.00.20,Other Administrative Expenses,600,0,0,0
+09.00.21,Supplies & Materials,1969,0,0,0
+09.00.26,Advertising & Publicity,0,0,0,0
+09.00.27,Minor Works,5744,0,0,0
+09.00.28,Professional Services,100,0,,0
+09.00.30,Other Contractual Services,5796,0,0,0
+09.00.50,Other Charges,18,0,0,0
+,Total: GSAT-18 Satellite,62638,0,0,0
+11,GSAT-19 Satellite,,,,
+11.00.01,Salaries,5000,0,0,0
+11.00.11,Domestic Travel Expenses,2109,0,0,0
+11.00.13,Office Expenses,900,0,,0
+11.00.20,Other Administrative Expenses,2059,0,0,0
+11.00.21,Supplies & Materials,22787,1000,1000,0
+11.00.27,Minor Works,3996,0,0,0
+11.00.28,Professional Services,3000,0,,0
+11.00.30,Other Contractual Services,26080,1000,1000,0
+11.00.50,Other Charges,152,0,0,0
+,Total: GSAT-19 Satellite,66083,2000,2000,0
+00.105,INSAT Satellite System,,,,
+12,GSAT-20 Satellite,,,,
+12.00.01,Salaries,95000,92500,80000,291500
+12.00.03,Overtime Allowance,0,0,0,500
+12.00.11,Domestic Travel Expenses,38,2400,2500,10000
+12.00.12,Foreign Travel Expenses,0,1000,100,100
+12.00.13,Office Expenses,100,1000,8300,15000
+12.00.20,Other Administrative Expenses,1,500,3000,20900
+12.00.21,Supplies & Materials,1815,1000,1000,30000
+12.00.26,Advertising & Publicity,0,100,100,0
+12.00.27,Minor Works,0,0,0,10000
+12.00.28,Professional Services,0,1000,1000,8000
+12.00.30,Other Contractual Services,0,500,4000,10000
+12.00.50,Other Charges,0,0,0,4000
+,Total: GSAT-20 Satellite,96954,100000,100000,400000
+13,GSAT-30/31 Communication Spacecrafts - Launch Services,,,,
+13.00.01,Salaries,0,100,0,0
+13.00.03,Overtime Allowance,0,20,0,0
+13.00.11,Domestic Travel Expenses,0,200,0,0
+13.00.12,Foreign Travel Expenses,0,50,9900,75000
+13.00.13,Office Expenses,0,100,,0
+13.00.20,Other Administrative Expenses,0,20,0,0
+13.00.21,Supplies & Materials,0,100,0,0
+13.00.26,Advertising & Publicity,0,10,0,0
+00.105,INSAT Satellite System,,,,
+13,GSAT-30/31 Communication Spacecrafts - Launch Services,,,,
+13.00.27,Minor Works,0,50,0,0
+13.00.28,Professional Services,0,80,,0
+13.00.30,Other Contractual Services,0,50,0,0
+13.00.50,Other Charges,0,20,100,50000
+,Total: GSAT-30/31 Communication Spacecrafts - Launch Services,0,800,10000,125000
+16,Advanced Communication Satellite (GSAT-11) including launch services,,,,
+16.00.01,Salaries,70000,5000,5000,0
+16.00.11,Domestic Travel Expenses,4803,100,100,100
+16.00.12,Foreign Travel Expenses,31681,75000,35000,10000
+16.00.13,Office Expenses,17729,7000,7000,200
+16.00.20,Other Administrative Expenses,4122,2400,1300,100
+16.00.21,Supplies & Materials,21614,1000,100,100
+16.00.26,Advertising & Publicity,90,500,1000,0
+16.00.27,Minor Works,5515,2500,2100,200
+16.00.28,Professional Services,5226,2500,2000,200
+16.00.30,Other Contractual Services,2643,4500,11000,500
+16.00.50,Other Charges,326,50000,2700,50200
+,Total:  Advanced Communication Satellite (GSAT-11) including launch services,163749,150500,67300,61600
+00.105,INSAT Satellite System,,,,
+17,GSAT-21 Satellite,,,,
+17.00.01,Salaries,0,50,0,20
+17.00.03,Overtime Allowance,0,10,0,5
+17.00.11,Domestic Travel Expenses,0,20,0,15
+17.00.12,Foreign Travel Expenses,0,10,0,5
+17.00.13,Office Expenses,0,10,0,15
+17.00.20,Other Administrative Expenses,0,10,0,5
+17.00.21,Supplies & Materials,0,20,0,5
+17.00.26,Advertising & Publicity,0,10,0,5
+17.00.27,Minor Works,0,20,0,5
+17.00.28,Professional Services,0,20,0,10
+17.00.30,Other Contractual Services,0,10,0,5
+17.00.50,Other Charges,0,10,0,5
+,Total: GSAT-21 Satellite,0,200,0,100
+00.105,INSAT Satellite System,,,,
+18,GSAT-22/23/24 Satellites,,,,
+18.00.01,Salaries,45000,98000,118000,250000
+18.00.03,Overtime Allowance,0,0,0,100
+18.00.11,Domestic Travel Expenses,185,800,1000,10000
+18.00.12,Foreign Travel Expenses,500,100,50,1000
+18.00.13,Office Expenses,0,200,5200,5000
+18.00.20,Other Administrative Expenses,0,100,2660,5500
+18.00.21,Supplies & Materials,3957,200,20,4400
+18.00.26,Advertising & Publicity,300,100,20,0
+18.00.27,Minor Works,0,100,650,1000
+18.00.28,Professional Services,0,100,50,2000
+18.00.30,Other Contractual Services,944,200,3300,3000
+18.00.50,Other Charges,0,100,50,1000
+,Total: GSAT-22/23/24 Satellites,50886,100000,131000,283000
+19,Procurement of Heavier Class Satellite,,,,
+19.00.12,Foreign Travel Expenses,0,88,0,60
+19.00.21,Supplies & Materials,0,5,0,10
+19.00.27,Minor Works,0,5,0,10
+19.00.50,Other Charges,0,2,0,20
+,Total: Procurement of Heavier Class Satellite,0,100,0,100
+00.105,INSAT Satellite System,,,,
+20,GSAT-25 & 28 Satellites,,,,
+20.00.01,Salaries,0,10,0,10
+20.00.03,Overtime Allowance,0,5,0,5
+20.00.11,Domestic Travel Expenses,0,15,0,10
+20.00.12,Foreign Travel Expenses,0,5,0,10
+20.00.13,Office Expenses,0,10,0,10
+20.00.20,Other Administrative Expenses,0,5,0,5
+20.00.21,Supplies & Materials,0,10,0,10
+20.00.26,Advertising & Publicity,0,5,0,5
+20.00.27,Minor Works,0,10,0,10
+20.00.28,Professional Services,0,10,0,10
+20.00.30,Other Contractual Services,0,10,0,10
+20.00.50,Other Charges,0,5,0,5
+,Total: GSAT-25 & 28 Satellites,0,100,0,100
+00.105,INSAT Satellite System,,,,
+21,GSAT-26 & 27 Satellites,,,,
+21.00.01,Salaries,0,10,0,10
+21.00.03,Overtime Allowance,0,5,0,5
+21.00.11,Domestic Travel Expenses,0,10,0,10
+21.00.12,Foreign Travel Expenses,0,10,0,10
+21.00.13,Office Expenses,0,10,0,10
+21.00.20,Other Administrative Expenses,0,5,0,5
+21.00.21,Supplies & Materials,0,10,0,10
+21.00.26,Advertising & Publicity,0,5,0,5
+21.00.27,Minor Works,0,10,0,10
+21.00.28,Professional Services,0,10,0,10
+21.00.30,Other Contractual Services,0,10,0,10
+21.00.50,Other Charges,0,5,0,5
+,Total: GSAT-26 & 27 Satellites,0,100,0,100
+00.105,INSAT Satellite System,,,,
+22,GSAT-29 Satellite,,,,
+22.00.01,Salaries,0,109900,165000,40000
+22.00.03,Overtime Allowance,0,180,100,200
+22.00.11,Domestic Travel Expenses,0,3260,5000,5000
+22.00.12,Foreign Travel Expenses,0,440,0,200
+22.00.13,Office Expenses,0,34880,22700,8000
+22.00.20,Other Administrative Expenses,0,2960,3100,8000
+22.00.21,Supplies & Materials,0,19180,26440,1500
+22.00.26,Advertising & Publicity,0,480,10,0
+22.00.27,Minor Works,0,1930,1350,2500
+22.00.28,Professional Services,0,4900,3300,4000
+22.00.30,Other Contractual Services,0,19930,26000,5300
+22.00.50,Other Charges,0,960,5000,4300
+,Total: GSAT-29 Satellite,0,199000,258000,79000
+00.105,INSAT Satellite System,,,,
+23,GSAT 30/31/32 Satellites,,,,
+23.00.01,Salaries,0,10,170000,371500
+23.00.03,Overtime Allowance,0,5,0,500
+23.00.11,Domestic Travel Expenses,0,10,2000,10000
+23.00.12,Foreign Travel Expenses,0,10,20,0
+23.00.13,Office Expenses,0,10,1000,11000
+23.00.20,Other Administrative Expenses,0,5,500,7500
+23.00.21,Supplies & Materials,0,10,30,17000
+23.00.26,Advertising & Publicity,0,5,0,0
+23.00.27,Minor Works,0,10,50,5000
+23.00.28,Professional Services,0,10,50,13000
+23.00.30,Other Contractual Services,0,10,50,13500
+23.00.50,Other Charges,0,5,300,1000
+,Total : GSAT 30/31/32 Satellittes,0,100,174000,450000
+24,GSAT 31 Satellite,,,,
+24.00.11,Domestic Travel Expenses,0,20,0,0
+24.00.12,Foreign Travel Expenses,0,5,0,0
+24.00.13,Office Expenses,0,10,0,0
+24.00.20,Other Administrative Expenses,0,10,0,0
+24.00.21,Supplies & Materials,0,10,0,0
+24.00.26,Advertising & Publicity,0,5,0,0
+24.00.27,Minor Works,0,10,0,0
+24.00.28,Professional Services,0,10,,0
+24.00.30,Other Contractual Services,0,10,0,0
+24.00.50,Other Charges,0,10,0,0
+,Total : GSAT 31 Satellitte,0,100,0,0
+00.105,INSAT Satellite System,,,,
+25,GSAT 32 Satellite,,,,
+25.00.11,Domestic Travel Expenses,0,20,0,0
+25.00.12,Foreign Travel Expenses,0,5,0,0
+25.00.13,Office Expenses,0,10,0,0
+25.00.20,Other Administrative Expenses,0,10,0,0
+25.00.21,Supplies & Materials,0,10,0,0
+25.00.26,Advertising & Publicity,0,5,0,0
+25.00.27,Minor Works,0,10,0,0
+25.00.28,Professional Services,0,10,0,0
+25.00.30,Other Contractual Services,0,10,0,0
+25.00.50,Other Charges,0,10,0,0
+,Total : GSAT 32 Satellitte,0,100,0,0
+00.105,INSAT Satellite System,,,,
+26,Indian Data Relay Satellite Series (IDRSS),,,,
+26.00.01,Salaries,0,0,0,100
+26.00.02,Wages,0,0,0,10
+26.00.03,Overtime Allowance,0,0,0,10
+26.00.11,Domestic Travel Expenses,0,0,0,200
+26.00.12,Foreign Travel Expenses,0,0,0,100
+26.00.13,Office Expenses,0,0,0,200
+26.00.20,Other Administrative Expenses,0,0,0,50
+26.00.21,Supplies & Materials,0,0,0,100
+26.00.26,Advertising & Publicity,0,0,0,10
+26.00.27,Minor Works,0,0,0,60
+26.00.28,Professional Services,0,0,0,100
+26.00.30,Other Contractual Services,0,0,0,50
+26.00.50,Other Charges,0,0,0,10
+,Total : Indian Data Relay Satellite Series (IDRSS),0,0,0,1000
+00.105,INSAT Satellite System,,,,
+27,GSAT Future Missions including Launch Services/GSAT 12R,,,,
+27.00.01,Salaries,0,0,0,20
+27.00.03,Overtime Allowance,0,0,0,5
+27.00.11,Domestic Travel Expenses,0,0,0,10
+27.00.12,Foreign Travel Expenses,0,0,0,10
+27.00.13,Office Expenses,0,0,0,10
+27.00.20,Other Administrative Expenses,0,0,0,5
+27.00.21,Supplies & Materials,0,0,0,10
+27.00.26,Advertising & Publicity,0,0,0,5
+27.00.27,Minor Works,0,0,0,5
+27.00.28,Professional Services,0,0,0,10
+27.00.30,Other Contractual Services,0,0,0,5
+27.00.50,Other Charges,0,0,0,5
+,Total : GSAT Future Missions including Launch Services/GSAT 12R,0,0,0,100
+,Total:  INSAT Satellite System,2109978,1784000,2044800,2404100
+00.798,International Co-operation,,,,
+01,Centre for Space Science & Technology Education in Asia and the Pacific (CSSTE-AP),,,,
+01.00.32,Contributions,0,37000,32500,0
+01.00.50,Other Charges,20000,0,0,42500
+02,Other Programmes,,,,
+02.00.20,Other Administrative Expenses,0,8000,6000,133500
+02.00.32,Contributions,2133,2000,2100,2100
+02.00.50,Other Charges,4271,2000,2000,1900
+,Total: Other Programmes,6404,12000,10100,137500
+,Total: International Co-operation,26404,49000,42600,180000
+,Total: Major Head '3402',52946020,54661800,56192700,58397200
+,Charged,2379,6000,6000,6000
+,Voted,52943641,54655800,56186700,58391200
+,Total : Revenue,53345122,54961800,56642700,58747200
+,Charged,2379,6000,6000,6000
+,Voted,53342743,54955800,56636700,58741200
+,CAPITAL SECTION,,,,
+5402,Capital Outlay on Space Research,,,,
+00.052,Machinery & Equipment,,,,
+01,Tools & Plant,,,,
+01.00.52,Machinery & Equipment,133,500,500,0
+00.101,Space Technology,,,,
+01,Vikram Sarabhai Space Centre (VSSC),,,,
+01.00.51,Motor Vehicles,24790,50000,20000,19000
+01.00.52,Machinery & Equipment,1499991,1799200,1600000,1511000
+01.00.53,Major Works  -  Charged,0,500,100,500
+,Voted,734963,749500,465000,619500
+01.00.60,Other Capital Expenditure,599993,354900,310000,250000
+01.99,Information Technology,,,,
+01.99.52,Machinery & Equipment,10190,10000,10000,10000
+,Total: Vikram Sarabhai Space Centre  (VSSC),2869927,2964100,2405100,2410000
+,Charged,0,500,100,500
+,Voted,2869927,2963600,2405000,2409500
+02,ISRO Inertial Systems Unit (IISU),,,,
+02.00.51,Motor Vehicles,0,2500,2500,5000
+02.00.52,Machinery & Equipment,268300,350000,234000,291500
+02.00.53,Major Works,13994,6000,2000,42000
+02.00.60,Other Capital Expenditure,1000,10000,10000,10000
+02.99,Information Technology,,,,
+02.99.52,Machinery & Equipment,1000,1500,1500,1500
+,Total : ISRO Inertial Systems Unit (IISU),284294,370000,250000,350000
+5402,Capital Outlay on Space Research,,,,
+04,GSLV Mk-III Development,,,,
+04.00.52,Machinery & Equipment,19001,0,0,0
+04.00.60,Other Capital Expenditure,31000,20000,30000,0
+,Total : GSLV Mk-III Development,50001,20000,30000,0
+07,Liquid Propulsion Systems Centre (LPSC),,,,
+07.00.51,Motor Vehicles,9998,13000,10000,20000
+07.00.52,Machinery & Equipment,1524950,2000000,1358500,2033100
+07.00.53,Major Works  - Charged,0,500,500,500
+,Voted,269920,399500,599500,999500
+07.00.60,Other Capital Expenditure,19499,20000,19500,10000
+07.99,Information Technology,,,,
+07.99.52,Machinery & Equipment,0,12000,12000,12000
+,Total : Liquid Propulsion Systems,1824367,2445000,2000000,3075100
+,Centre (LPSC)   Charged,0,500,500,500
+,Voted,1824367,2444500,1999500,3074600
+5402,Capital Outlay on Space Research,,,,
+08,ISRO Satellite Centre (ISAC),,,,
+08.00.51,Motor Vehicles,756,20000,10000,0
+08.00.52,Machinery & Equipment,420400,750000,671200,0
+08.00.53,Major Works  -    Charged,0,100,100,0
+,Voted,849996,899900,799900,0
+08.00.60,Other Capital Expenditure,65499,150000,55000,0
+08.99,Information Technology,,,,
+08.99.52,Machinery & Equipment,70096,150000,63800,0
+,Total: ISRO Satellite Centre (ISAC),1406747,1970000,1600000,0
+,Charged,0,100,100,0
+,Voted,1406747,1969900,1599900,0
+09,Laboratory for Electro-Optics Systems (LEOS),,,,
+09.00.52,Machinery & Equipment,62300,140000,106500,130000
+09.00.53,Major Works,14683,11500,10000,55000
+09.00.60,Other Capital Expenditure,4000,8500,8500,5000
+09.99,Information Technology,,,,
+09.99.52,Machinery & Equipment,23201,10000,15000,10000
+,Total: Laboratory for Electro-Optics Systems (LEOS),104184,170000,140000,200000
+5402,Capital Outlay on Space Research,,,,
+17,Satish Dhawan Space Centre-SHAR (SDSC-SHAR),,,,
+17.00.51,Motor Vehicles,9482,30000,20000,25000
+17.00.52,Machinery & Equipment,1660656,2150000,1463000,1500000
+17.00.53,Major Works  - Charged,0,700,2500,700
+,Voted,759995,849300,997500,1069300
+17.00.60,Other Capital Expenditure,102488,105000,105000,100000
+17.99,Information Technology,,,,
+17.99.52,Machinery & Equipment,66999,64000,70000,90000
+,Total: Satish Dhawan Space,2599620,3199000,2658000,2785000
+,Centre-SHAR (SDSC-SHAR)   Charged,0,700,2500,700
+,Voted,0,3198300,2655500,2784300
+18,"ISRO Telemetry, Tracking and Command Network (ISTRAC)",,,,
+18.00.52,Machinery & Equipment,227190,300000,393000,400000
+18.00.53,Major Works  - Charged,0,200,200,200
+,Voted,45699,99800,113800,128700
+18.00.60,Other Capital Expenditure,0,400,0,0
+18.99,Information Technology,,,,
+18.99.52,Machinery & Equipment,49997,80000,70000,70000
+,"Total: ISRO Telemetry, Tracking and Command Network (ISTRAC)",322886,480400,577000,598900
+,Charged,0,200,200,200
+,Voted,322886,480200,576800,598700
+5402,Capital Outlay on Space Research,,,,
+20,Polar Satellite Launch Vehicle - Continuation (PSLV-C) Project,,,,
+20.00.52,Machinery & Equipment,233071,200000,350000,100000
+20.00.53,Major Works,108893,100000,65000,15000
+20.00.60,Other Capital Expenditure,7061001,7015500,6933000,3221000
+20.99,Information Technology,,,,
+20.99.52,Machinery & Equipment,0,500,500,500
+,Total:  Polar Satellite Launch Vehicle - Continuation (PSLV-C) Project,7402965,7316000,7348500,3336500
+25,GSLV-Operational Project,,,,
+25.00.52,Machinery & Equipment,2401,20000,20000,37000
+25.00.53,Major Works,34225,30000,42500,7500
+25.00.60,Other Capital Expenditure,0,0,975000,1255500
+,Total: GSLV Operational Project,36626,50000,1037500,1300000
+31,Navigation Satellite System (NSS),,,,
+31.00.52,Machinery & Equipment,329852,297000,275000,180000
+31.00.53,Major Works,24639,25000,25000,0
+31.00.60,Other Capital Expenditure,189320,120000,220000,1070000
+,Total:  Naviation Satellite Navigation (NSS),543811,442000,520000,1250000
+5402,Capital Outlay on Space Research,,,,
+35,Manned Mission Initiatives/Human Space Flight Programme (Gaganyaan),,,,
+35.00.51,Motor Vehicles,0,0,0,900
+35.00.52,Machinery & Equipment,0,0,80,1048500
+35.00.53,Major Works,0,0,0,1050000
+35.00.60,Other Capital Expenditure,0,0,10,7850000
+,Total: Manned Mission Initiatives/Human Space Flight Programme (Gaganyaan),0,0,90,9949400
+37,Semi Cryogenic Engine Development,,,,
+37.00.52,Machinery & Equipment,229900,1000000,746000,1040000
+37.00.53,Major Works,491900,310000,164000,60000
+37.00.60,Other Capital Expenditure,5000,0,0,0
+,Total: Semi Cryogenic Engine Development,726800,1310000,910000,1100000
+42,Geo-Imaging Satellite (GISAT),,,,
+42.00.52,Machinery & Equipment,8662,55000,7700,72000
+42.00.60,Other Capital Expenditure,358801,370000,280000,378000
+,Total:   Geo-Imaging Satellite (GISAT),367463,425000,287700,450000
+43,Resourcesat-2A,,,,
+43.00.52,Machinery & Equipment,107926,0,0,0
+43.00.60,Other Capital Expenditure,166514,0,0,0
+,Total:   Resourcesat-2A,274440,0,0,0
+5402,Capital Outlay on Space Research,,,,
+44,Cartosat-3,,,,
+44.00.52,Machinery & Equipment,4435,35700,36000,39000
+44.00.53,Major Works,0,200,0,0
+44.00.60,Other Capital Expenditure,310324,642400,525000,715500
+44.99,Information Technology,,,,
+44.99.52,Machinery & Equipment,0,0,0,500
+,Total:   Cartosat-3,314759,678300,561000,755000
+45,Scattsat,,,,
+45.00.52,Machinery & Equipment,84677,0,0,0
+45.00.60,Other Capital Expenditure,200863,0,0,0
+,Total:   Scattsat,285540,0,0,0
+46,RISAT-1A,,,,
+46.00.52,Machinery & Equipment,2291,43000,15000,25000
+46.00.60,Other Capital Expenditure,1393215,1200000,556000,935000
+,Total:   RISAT-1A,1395506,1243000,571000,960000
+47,Oceansat-3 & 3A,,,,
+47.00.52,Machinery & Equipment,5762,36000,15000,57500
+47.00.60,Other Capital Expenditure,781315,700000,735000,1282500
+47.99,Information Technology,,,,
+47.99.52,Machinery & Equipment,0,500,0,0
+,Total:   Oceansat-3 & 3A,787077,736500,750000,1340000
+5402,Capital Outlay on Space Research,,,,
+48,ISRO Propulsion Complex (IPRC),,,,
+48.00.51,Motor Vehicles,20800,40000,10000,20000
+48.00.52,Machinery & Equipment,280000,2039000,1547000,2310000
+48.00.53,Major Works  - Charged,0,500,100,500
+,Voted,419500,499500,379900,609500
+48.00.60,Other Capital Expenditure,1000,7500,0,0
+,Total:   ISRO Propulsion Complex (IPRC),721300,2586500,1937000,2940000
+,Charged,0,500,100,500
+,Voted,721300,2586000,1936900,2939500
+49,Trisonic Wind Tunnel Facility Project,,,,
+49.00.52,Machinery & Equipment,0,800000,621400,651800
+49.00.53,Major Works,0,100000,148800,238200
+49.00.60,Other Capital Expenditure,0,59000,105000,100000
+,Total: Trisonic Wind Tunnel Facility Project,0,959000,875200,990000
+50,Cartosat-2E,,,,
+50.00.52,Machinery & Equipment,44648,18000,800,0
+50.00.60,Other Capital Expenditure,676233,310400,274600,0
+,Total:   Cartosat-2E,720881,328400,275400,0
+51,Risat-1B,,,,
+51.00.52,Machinery & Equipment,0,500,5000,47500
+51.00.60,Other Capital Expenditure,0,300,72500,232500
+,Total:   Risat-1B,0,800,77500,280000
+5402,Capital Outlay on Space Research,,,,
+52,Realisation of Second Vehicle Assembly Building (SVAB),,,,
+52.00.52,Machinery & Equipment,2149999,656000,900000,161200
+,Total:   Realisation of Second Vehicle Assembly Building (SVAB),2149999,656000,900000,161200
+54,NASA ISRO Synthetic Aperture Radar Mission (NISAR),,,,
+54.00.52,Machinery & Equipment,28289,150000,123500,257000
+54.00.53,Major Works,0,0,1000,9700
+54.00.60,Other Capital Expenditure,656262,700000,553900,508300
+,Total:   NASA ISRO Synthetic Aperture Radar Mission (NISAR),684551,850000,678400,775000
+55,Master Control Facility (MCF),,,,
+55.00.51,Motor Vehicles,0,0,0,1000
+55.00.52,Machinery & Equipment,367534,350000,412500,422500
+55.00.53,Major Works,9993,89500,40000,57500
+55.00.60,Other Capital Expenditure,0,1000,0,1000
+55.99,Information Technology,,,,
+55.99.52,Machinery & Equipment,15000,53500,50000,57000
+,Total: Master Control Facility (MCF),392527,494000,502500,539000
+5402,Capital Outlay on Space Research,,,,
+56,Indian Space Research Organisation Headquarters (ISRO Hq),,,,
+56.00.51,Motor Vehicles,0,0,0,1000
+56.00.52,Machinery & Equipment,0,0,0,500
+#56.00.53,Major Works Charged,0,500,200,500
+#,Voted,149999,10049500,1894800,1598500
+56.00.53,Major Works,149999,10050000,1895000,1599000
+56.99,Information Technology,,,,
+56.99.52,Machinery & Equipment,118742,65000,49500,19500
+,Total: Indian Space Research Organisation,268741,10115000,1944500,1620000
+,Headquarters (ISRO Hq)  Charged,0,500,200,500
+,Voted,268741,10114500,1944300,1619500
+57,Resourcesat-3S & 3SA,,,,
+57.00.52,Machinery & Equipment,10058,76500,10000,29500
+57.00.60,Other Capital Expenditure,42633,266600,235000,700500
+,Total:   Resourcesat-3S & 3SA,52691,343100,245000,730000
+58,Resourcesat-3 & 3A,,,,
+58.00.52,Machinery & Equipment,0,500,22300,90000
+58.00.60,Other Capital Expenditure,7655,199500,302600,520000
+,Total:   Resourcesat-3 & 3A,7655,200000,324900,610000
+59,High Resoulution Satellite (HRSAT) Constellation,,,,
+59.00.52,Machinery & Equipment,3625,80000,47100,150000
+59.00.60,Other Capital Expenditure,6097,190000,341400,450000
+,Total: High Resoulution Satellite (HRSAT) Constellation,9722,270000,388500,600000
+5402,Capital Outlay on Space Research,,,,
+60,Solid Propellant Space Booster Plant (SPROB),,,,
+60.00.52,Machinery & Equipment,17955,100000,700000,1150000
+60.00.53,Major Works,51982,350000,1000000,650000
+,Total:   Solid Propellant Space Booster Plant (SPROB),69937,450000,1700000,1800000
+61,Third Launch Pad,,,,
+61.00.52,Machinery & Equipment,0,500,0,100
+61.00.53,Major Works,0,400,0,800
+61.00.60,Other Capital Expenditure,0,100,0,100
+,Total:  Third Launch Pad,0,1000,0,1000
+62,Semi Cryogenic Stage Development,,,,
+62.00.52,Machinery & Equipment,0,500,4910,460000
+62.00.53,Major Works,0,0,40900,50000
+62.00.60,Other Capital Expenditure,0,400,0,0
+,Total: Semi Cryogenic Stage Development,0,900,45810,510000
+63,Semi Cryogenic Engine Clustering,,,,
+63.00.52,Machinery & Equipment,0,800,0,800
+63.00.60,Other Capital Expenditure,0,100,0,100
+,Total: Semi Cryogenic Engine Clustering,0,900,0,900
+64,Advanced Launch Vehicle Development,,,,
+64.00.52,Machinery & Equipment,0,800,0,800
+64.00.60,Other Capital Expenditure,0,100,0,100
+,Total:  Advanced Launch Vehicle Development,0,900,0,900
+5402,Capital Outlay on Space Research,,,,
+65,PSLV Continuation Programme (Phase-6),,,,
+65.00.51,Motor Vehicles,0,0,0,15000
+65.00.52,Machinery & Equipment,0,200,0,100000
+65.00.53,Major Works,0,200,0,0
+65.00.60,Other Capital Expenditure,0,200,3000000,1730000
+65.99,Information Technology,,,,
+65.99.52,Machinery & Equipment,0,200,0,0
+,Total: Polar Continuation Programme (Phase-6),0,800,3000000,1845000
+66,GSLV Mk-III Continuation Programme (Phase-1),,,,
+66.00.52,Machinery & Equipment,0,200,15000,10000
+66.00.53,Major Works,0,200,0,0
+66.00.60,Other Capital Expenditure,0,400,1482000,2470000
+,Total:   GSLV Mk-III Continuation Programme (Phase-1),0,800,1497000,2480000
+67,Reusable Launch Vehicle Orbital Re-entry Experiment,,,,
+67.00.52,Machinery & Equipment,0,800,20000,40000
+67.00.60,Other Capital Expenditure,0,100,50000,455000
+,Total:  Reusable Launch Vehicle Orbital Re-entry Experiment,0,900,70000,495000
+68,PSLV Integration Facility (PIF),,,,
+68.00.52,Machinery & Equipment,0,200000,171000,400000
+68.00.53,Major Works,0,300000,517800,600000
+,Total:  PSLV Integration Facility (PIF),0,500000,688800,1000000
+5402,Capital Outlay on Space Research,,,,
+69,Small Satellite Launch Vehicle (SSLV) Development,,,,
+69.00.52,Machinery & Equipment,0,800,100000,50000
+69.00.60,Other Capital Expenditure,0,100,148000,330000
+,Total:  Small Satellite Launch Vehicle (SSLV) Development,0,900,248000,380000
+70,U R Rao Satellite Centre (URSC),,,,
+70.00.51,Motor Vehicles,0,0,0,30000
+70.00.52,Machinery & Equipment,0,0,0,720000
+70.00.53,Major Works  - Charged,0,0,0,100
+,Voted,0,0,0,849900
+70.00.60,Other Capital Expenditure,0,0,0,20000
+70.99,Information Technology,,,,
+70.99.52,Machinery & Equipment,0,0,0,80000
+,Total: U R Rao Satellite Centre (URSC),0,0,0,1700000
+,Charged,0,0,0,100
+,Voted,0,0,0,1699900
+71,Earth Observation Follow-on Satellites,,,,
+71.00.51,Motor Vehicles,0,0,0,0
+71.00.52,Machinery & Equipment,0,0,0,200
+71.00.53,Major Works,0,0,0,0
+71.00.60,Other Capital Expenditure,0,0,0,600
+,Total:   Earth Observation Follow-on Satellites,0,0,0,800
+5402,Capital Outlay on Space Research,,,,
+72,GSLV Continuation Programme (Phase 4),,,,
+72.00.51,Motor Vehicles,0,0,0,0
+72.00.52,Machinery & Equipment,0,0,0,0
+72.00.53,Major Works,0,0,0,0
+72.00.60,Other Capital Expenditure,0,0,0,400
+,Total:  GSLV Continuation Programme (Phase 4),0,0,0,400
+73,Network for Space Objects Tracking and Analysis (NETRA),,,,
+73.00.52,Machinery & Equipment,0,0,0,1000
+73.00.53,Major Works,0,0,0,1000
+73.99,Information Technology,,,,
+73.99.52,Machinery & Equipment,0,0,0,1000
+,Total:  Network for Space Objects Tracking and Analysis (NETRA),0,0,0,3000
+74,Launch Pad for SSLV,,,,
+74.00.51,Motor Vehicles,0,0,0,0
+74.00.52,Machinery & Equipment,0,0,0,200
+74.00.53,Major Works,0,0,0,100
+74.00.60,Other Capital Expenditure,0,0,0,100
+,Total:  Launch Pad for SSLV,0,0,0,400
+5402,Capital Outlay on Space Research,,,,
+75,Human Spaceflight Centre (HSFC),,,,
+75.00.51,Motor Vehicles,0,0,0,100
+75.00.52,Machinery & Equipment,0,0,0,30000
+75.00.53,Major Works,0,0,0,60000
+75.00.60,Other Capital Expenditure,0,0,0,1900
+75.99,Information Technology,,,,
+75.99.52,Machinery & Equipment,0,0,0,35000
+,Total : Human Spaceflight Centre (HSFC),0,0,0,127000
+,Total: Space Technology,26675017,41579200,37044400,49449500
+,Charged,0,3000,3700,3000
+,Voted,26675017,41576200,37040700,49446500
+00.102,Space Applications,,,,
+01,Space Applications Centre (SAC),,,,
+01.00.51,Motor Vehicles,0,0,0,20000
+01.00.52,Machinery & Equipment,2546998,3200000,2801910,3900000
+01.00.53,Major Works - Charged,0,500,100,500
+,Voted,799998,849500,1009900,1293500
+01.00.60,Other Capital Expenditure,63499,100000,49990,100000
+01.99,Information Technology,,,,
+01.99.52,Machinery & Equipment,559954,350000,450000,395000
+,Total:  Space Applications Centre (SAC),3970449,4500000,4311900,5709000
+,Charged,0,500,100,500
+,Voted,3970449,4499500,4311800,5708500
+00.102,Space Applications,,,,
+02,Development & Educational Communication Unit (DECU),,,,
+02.00.52,"Machinery & Equipment",6198,30000,10000,20000
+06,Disaster Management Support (DMS),,,
+06.00.52,"Machinery & Equipment",21570,146000,92800,138000
+06.00.53,Major Works,5700,1000,0,0
+06.99,Information Technology,,,,
+06.99.52,Machinery & Equipment,4152,8000,13000,12000
+,Total: Disaster Managemant Support (DMS),31422,155000,105800,150000
+07,National Remote Sensing Centre (NRSC),,,,
+07.00.51,Motor Vehicles,0,0,1000,1000
+07.00.52,Machinery & Equipment,497000,500000,200000,350000
+07.00.53,Major Works - Charged,0,500,200,500
+,Voted,210000,249500,374800,357500
+07.00.60,Other Capital Expenditure,255000,150000,160000,160000
+07.99,Information Technology,,,,
+07.99.52,Machinery & Equipment,729997,900000,290000,468500
+,Total:National Remote Sensing Centre (NRSC),1691997,1800000,1026000,1337500
+,Charged,0,500,200,500
+,Voted,1691997,1799500,1025800,1337000
+5402,Capital Outlay on Space Research,,,,
+00.102,Space Applications,,,,
+08,Indian Institute of Remote Sensing (IIRS),,,,
+08.00.52,Machinery & Equipment,45500,95000,50000,55000
+08.00.53,Major Works,128000,170000,104900,119800
+08.00.60,Other Capital Expenditure,0,100,100,100
+08.99,Information Technology,,,,
+08.99.52,Machinery & Equipment,9000,20000,20000,20000
+,Total: Indian Institute of Remote Sensing (IIRS),182500,285100,175000,194900
+,Total: Space Applications,5882566,6770100,5628700,7411400
+,Charged,0,1000,300,1000
+,Voted,5882566,6769100,5628400,7410400
+00.103,Space Sciences,,,,
+03,Indian Lunar Mission - Chandrayaan - 1 & 2,,,,
+03.00.52,Machinery & Equipment,154036,10000,30000,25900
+03.00.60,Other Capital Expenditure,733676,590000,320000,376100
+,Total: Indian Lunar Mission - Chandrayaan-1 & 2,887712,600000,350000,402000
+06,Small Satellites for Atmospheric Studies & Astronomy,,,,
+06.00.60,Other Capital Expenditure,2201,23000,23000,20000
+07,ADITYA,,,,
+07.00.52,Machinery & Equipment,61914,100000,20000,205000
+07.00.60,Other Capital Expenditure,218126,260000,312000,675000
+,Total : ADITYA,280040,360000,332000,880000
+5402,Capital Outlay on Space Research,,,,
+10,Climate & Atmospheric Programme,,,,
+10.00.52,Machinery & Equipment,22018,56000,30000,50000
+10.00.60,Other Capital Expenditure,953,0,0,0
+10.99,Information Technology,,,,
+10.99.52,Machinery & Equipment,0,0,0,5000
+,Total : Climate & Atmospheric Programme,22971,56000,30000,55000
+11,X-RAY Polarimeter Satellite (Xposat),,,,
+11.00.52,Machinery & Equipment,2000,2500,6000,15000
+11.00.60,Other Capital Expenditure,49494,150000,84000,181000
+11.99,Information Technology,,,,
+11.99.52,Machinery & Equipment,0,0,0,1000
+,Total : X-RAY Polarimeter Satellite (Xposat),51494,152500,90000,197000
+12,Space Docking Experiment Mission,,,,
+12.00.52,Machinery & Equipment,15733,45000,15000,70000
+12.00.60,Other Capital Expenditure,319,40000,62000,172500
+,Total : Space Docking Experiment Mission,16052,85000,77000,242500
+13,Mission to Venus,,,,
+13.00.52,Machinery & Equipment,0,300,0,300
+13.00.60,Other Capital Expenditure,0,500,0,500
+,Total : Mission to Venus,0,800,0,800
+14,Mars Orbiter Mission - II,,,,
+14.00.52,Machinery & Equipment,0,300,0,300
+14.00.60,Other Capital Expenditure,0,500,0,500
+,Total:  Mars Orbiter Mission - II,0,800,0,800
+5402,Capital Outlay on Space Research,,,,
+15,Sensor Payload Development/Planetary Science Programme,,,,
+15.99,Information Technology,,,,
+15.99.52,Machinery & Equipment,0,100,0,0
+16,AtmSat,,,,
+16.00.52,Machinery & Equipment,0,0,0,800
+16.00.60,Other Capital Expenditure,0,0,0,100
+,Total : AtmSat,0,0,0,900
+17,ExoWorlds,,,,
+17.00.52,Machinery & Equipment,0,0,0,500
+17.00.60,Other Capital Expenditure,0,0,0,200
+,Total : ExoWorlds,0,0,0,700
+,Total: Space Sciences,1260470,1278200,902000,1799700
+5402,Capital Outlay on Space Research,,,,
+00.105,INSAT Satellite System,,,,
+01,INSAT-3 Satellites,,,,
+01.00.52,Machinery & Equipment,19398,12500,1800,2000
+01.00.60,Other Capital Expenditure,23875,62500,49200,34000
+,Total : INSAT-3 Satellites,43273,75000,51000,36000
+02,INSAT-4/GSAT Satellites,,,,
+02.00.52,Machinery & Equipment,2600,30000,15000,0
+02.00.60,Other Capital Expenditure,486743,646900,444000,0
+,Total : INSAT-4/GSAT Satellites,489343,676900,459000,0
+07,GSAT-17 Satellite,,,,
+07.00.52,Machinery & Equipment,20394,6600,30000,0
+07.00.60,Other Capital Expenditure,856492,395600,360000,0
+,Total : GSAT-17 Satellite,876886,402200,390000,0
+08,GSAT-17 Satellite Launch Services,,,,
+08.00.60,Other Capital Expenditure,311284,0,,0
+,Total : GSAT-17 Satellite Launch Services,311284,0,,0
+09,GSAT-18 Satellite,,,,
+09.00.52,Machinery & Equipment,25098,0,,0
+09.00.60,Other Capital Expenditure,416621,0,,0
+,Total : GSAT-18 Satellite,441719,0,,0
+11,GSAT-19 Satellite,,,,
+11.00.52,Machinery & Equipment,35066,7500,8500,0
+11.00.60,Other Capital Expenditure,270938,55500,69500,0
+,Total : GSAT-19 Satellite,306004,63000,78000,0
+5402,Capital Outlay on Space Research,,,,
+12,GSAT-20 Satellite,,,,
+12.00.52,Machinery & Equipment,0,300000,10000,583000
+12.00.60,Other Capital Expenditure,295082,100000,190000,1017000
+,Total : GSAT-20 Satellite,295082,400000,200000,1600000
+13,GSAT 30/31 Communication Spacecrafts - Launch Services,,,,
+13.00.52,Machinery & Equipment,0,100,,0
+13.00.60,Other Capital Expenditure,0,100,7244500,1275000
+,Total: GSAT 30/31 Communication Spacecrafts - Launch Services,0,200,7244500,1275000
+15,Procurement of Heavier class Satellites,,,,
+15.00.60,Other Capital Expenditure,0,900,,900
+,Total : Procurement of Heavier class Satellites,0,900,,900
+16,Advanced Communication Satellite (GSAT-11) including launch services,,,,
+16.00.52,Machinery & Equipment,9596,0,,0
+16.00.60,Other Capital Expenditure,676231,49500,397700,3400
+,Total:  Advanced Communication Satellite (GSAT-11) including launch services,685827,49500,397700,3400
+17,GSAT-21 Satellite,,,,
+17.00.52,Machinery & Equipment,0,300,,800
+17.00.60,Other Capital Expenditure,0,500,,100
+,Total : GSAT-21 Satellite,0,800,,900
+5402,Capital Outlay on Space Research,,,,
+18,GSAT-22/23/24 Satellites,,,,
+18.00.52,Machinery & Equipment,0,50000,5000,7000
+18.00.60,Other Capital Expenditure,88342,350000,1064000,1661500
+,Total: GSAT-22/23/24 Satellites,88342,400000,1069000,1668500
+19,Augmentation of capacity through leasing of transponders from foreign satellites,,,,
+19.00.60,Other Capital Expenditure,0,1000,0,1000
+,Total: Augmentation of capacity through leasing of transponders from foreing Satellite,0,1000,0,1000
+20,GSAT-25 & 28 Satellites,,,,
+20.00.52,Machinery & Equipment,0,800,0,800
+20.00.60,Other Capital Expenditure,0,100,0,100
+,Total: GSAT-25 & 28 Satellites,0,900,0,900
+21,GSAT-26 & 27 Satellites,,,,
+21.00.52,Machinery & Equipment,0,800,0,800
+21.00.60,Other Capital Expenditure,0,100,0,100
+,Total: GSAT-26 & 27 Satellites,0,900,0,900
+22,GSAT-29 Satellite,,,,
+22.00.52,Machinery & Equipment,0,8300,10000,105000
+22.00.60,Other Capital Expenditure,0,249700,732000,196000
+,Total: GSAT- 29 Satellite,0,258000,742000,301000
+23,GSAT-30/31/32 Satellites,,,,
+23.00.52,Machinery & Equipment,0,800,0,5000
+23.00.60,Other Capital Expenditure,0,100,626000,1545000
+,Total: GSAT-30/31/32 Satellites,0,900,626000,1550000
+5402,Capital Outlay on Space Research,,,,
+24,GSAT-31 Satellite,,,,
+24.00.52,Machinery & Equipment,0,800,0,0
+24.00.60,Other Capital Expenditure,0,100,0,0
+,Total: GSAT- 31 Satellite,0,900,0,0
+25,GSAT- 32 Satellite,,,,
+25.00.52,Machinery & Equipment,0,800,0,0
+25.00.60,Other Capital Expenditure,0,100,0,0
+,Total: GSAT- 32 Satellite,0,900,0,0
+26,Indian Data Relay Satellite Series (IDRSS),,,,
+26.00.52,Machinery & Equipment,0,0,0,500
+26.00.60,Other Capital Expenditure,0,0,0,200
+,Total : Indian Data Relay Satellite Series (IDRSS),0,0,0,700
+27,GSAT Future Missions including Launch Services/GSAT 12R,,,,
+27.00.52,Machinery & Equipment,0,0,0,800
+27.00.60,Other Capital Expenditure,0,0,0,100
+,Total: GSAT Future Missions including Launch Services/GSAT 12R,0,0,0,900
+,Total : INSAT Satellite System ,3537760,2332000,11257200,6440100
+5402,Capital Outlay on Space Research,,,,
+00.283,Housing,,,,
+01,Vikram Sarabhai Space Centre,,,,
+01.00.53,Major Works,249970,250000,250000,140000
+02,Liquid Propulsion Systems Centre,,,,
+02.00.53,Major Works,0,200,0,20000
+03,Satish Dhawan Space Centre-SHAR,,,,
+03.00.53,Major Works,45982,115000,42000,65000
+04,"ISRO Telemetry, Tracking and Command Network (ISTRAC)",,,,
+04.00.53,Major Works,0,100,3000,1100
+05,Space Applications Centre,,,,
+05.00.53,Major Works,29999,150000,30000,305000
+09,National Remote Sensing Centre (NRSC),,,,
+09.00.53,Major Works,31648,145000,4000,62500
+10,Indian Institute of Remote Sensing (IIRS),,,,
+10.00.53,Major Works,0,100,0,100
+11,ISRO Propulsion Complex (IPRC),,,,
+11.00.53,Major Works,71000,3500,13000,10000
+12,Master Control Facility (MCF),,,,
+12.00.53,Major Works,20000,98500,32500,61000
+5402,Capital Outlay on Space Research,,,,
+00.283,Housing,,,,
+13,Indian Space Research Organisation Headquarters (ISRO Hq),,,,
+13.00.53,Major Works,121997,150000,150000,120000
+,Total: Housing ,570596,912400,524500,784700
+00.190,Investments in Public Sector and Other Undertakings,,,,
+01,Antrix Corporation Limited,,,,
+01.00.54,Investment,34000,0,0,0
+02,NewSpace India Limited,,,,
+02.00.54,Investment,0,0,0,100000
+,Total: Major Head '5402',37960542,52872400,55357300,65985400
+,Charged,0,4000,4000,4000
+,Voted,37960542,52868400,55353300,65981400
+,Total: Capital Section,37960542,52872400,55357300,65985400
+,Charged,0,4000,4000,4000
+,Voted,37960542,52868400,55353300,65981400
+,GRAND TOTAL,91305664,107834200,112000000,124732600
+,Charged,2379,10000,10000,10000
+,Voted,91303285,107824200,111990000,124722600
